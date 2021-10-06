@@ -8,7 +8,7 @@ _So - you cant withdraw it._
 
 **Send as much as needed tokens to the locker to fill up the required amount.**
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image-13-.png)
 
 ### Still dont work?
 

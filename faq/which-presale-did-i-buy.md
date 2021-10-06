@@ -6,11 +6,11 @@ To find out which Tokens you bought, you can check on the Blockchain Explorer.
 
 ### Check to which Presale Contract you sent your Contribution \(Should look like this\)
 
-![](../.gitbook/assets/image%20%2830%29.png)
+![](../.gitbook/assets/image-9-%20%281%29.png)
 
 ### Click on the Presale Contract and find out which Tokens are there
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%289%29%20%281%29.png)
 
 ### Copy the Contract Address
 

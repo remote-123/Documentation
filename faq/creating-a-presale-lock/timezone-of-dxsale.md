@@ -6,5 +6,5 @@
 
 **Make sure you got "time zone automatically" activated on your device.**
 
-![](../../.gitbook/assets/image%20%2827%29.png)
+![](../../.gitbook/assets/image%20%2827%29%20%282%29.png)
 

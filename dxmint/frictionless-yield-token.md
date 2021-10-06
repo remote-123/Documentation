@@ -4,5 +4,5 @@
 * Customize fees taken to reward holders
 * Whitelist function
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../.gitbook/assets/image%20%2838%29%20%281%29.png)
 

@@ -4,7 +4,7 @@
 
 **Just visit our website and select the Product you want to use and you'll see the price.**
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/image%20%2815%29%20%281%29.png)
 
 {% embed url="https://dxsale.app/" %}
 
