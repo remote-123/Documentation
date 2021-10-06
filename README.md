@@ -4,14 +4,7 @@
 
 DxLaunch allows anyone to transfer their minted contract tokens to raise capital.
 
-Because DxLaunch allows custom tokens, you must review each project to determine for yourself if the owner has good intentions with their tokens. Join one of our telegram chats below to learn more about all the DAPPs that form the DxSale ecosystem.
-* DxSale Main Chat (https://t.me/dxsale)
-* DxSale Announcements https://t.me/DxSaleAnn
-* DxSale Developer and Support Chat (https://t.me/dxdevs)
-* DxSale China Chat (https://t.me/dxsaleCN)
-* Presale/Launch Discussion Chat (https://t.me/dxsalepresales)
-* DxSale Token/Ecosystem Discussion Chat (https://t.me/priceDxSale1)
-* All Presales Tracking Bot (https://t.me/dxsalepresalebot)
+Because DxLaunch allows custom tokens, you must review each project to determine for yourself if the owner has good intentions with their tokens. 
   
  [**Terms and Conditions**](https://dxsale.app/app/termsandconditions)
 
