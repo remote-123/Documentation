@@ -25,6 +25,7 @@ List of Admins:
 * Raphael - @dxsrph \(UI Web3 Engineer\)
 * Dennis - @dxsden \(UI Web3 Engineer\)
 
+
 ## **ToDo List**
 
 We all know everyone likes detailed roadmaps but this space requires projects to be nimble and pivot frequently. Hence the following is a summary of some of our shorter term objectives.
