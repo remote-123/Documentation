@@ -1,32 +1,31 @@
 # Telegram Groups
 
-### **We will never ask you for any funds or to visit any other websites besides our own. Please be aware of Scammers, we will never DM you.**
+#### We will never ask you for any funds or to visit any other websites besides our own. Please be aware of Scammers, we will never DM you.
 
 ## **Announcements Channel**
 
-{% embed url="https://t.me/DxSaleAnn" caption="" %}
+{% embed url="https://t.me/DxSaleAnn" %}
 
 ## **Support Chat**
 
-{% embed url="https://t.me/DxDevs" caption="" %}
+{% embed url="https://t.me/DxDevs" %}
 
-## **Main Group \(English\)**
+## **Main Group (English)**
 
-{% embed url="https://t.me/DxSale" caption="" %}
+{% embed url="https://t.me/DxSale" %}
 
-## **Main Group \(Chinese\)**
+## **Main Group (Chinese)**
 
-{% embed url="https://t.me/DxSaleCN" caption="" %}
+{% embed url="https://t.me/DxSaleCN" %}
 
-## **Presale/Launch Discussion Chat \(Community Run\)**
+## **Presale/Launch Discussion Chat (Community Run)**
 
-{% embed url="https://t.me/dxsalepresales" caption="" %}
+{% embed url="https://t.me/dxsalepresales" %}
 
-## **DxSale Token/Ecosystem Discussion Chat \(Community Run\)**
+## **DxSale Token/Ecosystem Discussion Chat (Community Run)**
 
-{% embed url="https://t.me/priceDxSale1" caption="" %}
+{% embed url="https://t.me/priceDxSale1" %}
 
 ## **DxSale New Presales Tracking Bot**
 
-{% embed url="https://t.me/dxsalepresalebot" caption="" %}
-
+{% embed url="https://t.me/dxsalepresalebot" %}

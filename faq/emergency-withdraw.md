@@ -8,7 +8,7 @@ description: >-
 
 ### When can I withdraw my contribution?
 
-10 Minutes BEFORE a Presale timer runs out.
+Anytime till the last 10 Minutes BEFORE a Presale timer runs out.
 
 ### What happens with the 20% fee?
 
@@ -17,4 +17,3 @@ It's beeing deposited to our BuyBack and Burn Contract which burns SALE tokens i
 ### What if HC is reached faster than timer?
 
 Then you can withdraw till the timer would run out of the presale.
-
