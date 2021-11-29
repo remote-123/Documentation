@@ -12,6 +12,8 @@ Our System adds your liquidity to the given SwapPlatform when you press the Butt
 * AVAX = Pangolin&#x20;
 * Fantom = SpookySwap&#x20;
 * Harmony = SushiSwap
+* Celo = SushiSwap
+* Arbitrum = SushiSwap
 
 **Testnets:**
 
