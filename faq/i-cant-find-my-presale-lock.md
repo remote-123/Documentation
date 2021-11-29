@@ -4,13 +4,12 @@
 
 To find your Locks/Presales make sure to navigate to the "Archives"
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](<../.gitbook/assets/image (44).png>)
 
 ## Old Presale Liquidity Lock?
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](<../.gitbook/assets/image (45).png>)
 
 ## Old Lock or LP Lock WITHOUT Presale
 
-![](../.gitbook/assets/image%20%2817%29.png)
-
+![](<../.gitbook/assets/image (46).png>)

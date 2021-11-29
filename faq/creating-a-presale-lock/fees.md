@@ -4,7 +4,7 @@
 
 **Just visit our website and select the Product you want to use and you'll see the price.**
 
-![](../../.gitbook/assets/image%20%2815%29%20%281%29.png)
+![](<../../.gitbook/assets/image (25).png>)
 
 {% embed url="https://dxsale.app/" %}
 
@@ -20,11 +20,9 @@ We don't have any access to these Tokens, and the amount we don't need is burnt.
 
 Additional to the value of the native chain token we charge 2% of the tokens you sold on our platform.
 
-These 2% are used for our revenue model, the BuyBackAndBurn, if you want to know more about it you can read it up here :\) [https://docs.dxsale.network/native-token-sale/buybackandburn](https://docs.dxsale.network/native-token-sale/buybackandburn)
+These 2% are used for our revenue model, the BuyBackAndBurn, if you want to know more about it you can read it up here :) [https://docs.dxsale.network/native-token-sale/buybackandburn](https://docs.dxsale.network/native-token-sale/buybackandburn)
 
-The tokens can be sold by the $SALE community in small batches on our website. 
+The tokens can be sold by the $SALE community in small batches on our website.&#x20;
 
-[https://dxsale.app/app/v3/feemanagement](https://dxsale.app/app/v3/feemanagement) 
-
-
+[https://dxsale.app/app/v3/feemanagement](https://dxsale.app/app/v3/feemanagement)&#x20;
 

@@ -14,7 +14,6 @@ _**If you want to start a presale make sure you know and understand your sourcec
 
 **Video Tutorials are here:**
 
-{% embed url="https://www.youtube.com/channel/UCDrVyjNivEdu7\_cIA53B0cg" %}
+{% embed url="https://www.youtube.com/channel/UCDrVyjNivEdu7_cIA53B0cg" %}
 
-\*\*\*\*
-
+****

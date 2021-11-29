@@ -14,9 +14,7 @@
 
 ### Youtube
 
-{% embed url="https://www.youtube.com/channel/UCDrVyjNivEdu7\_cIA53B0cg" %}
-
-
+{% embed url="https://www.youtube.com/channel/UCDrVyjNivEdu7_cIA53B0cg" %}
 
 
 

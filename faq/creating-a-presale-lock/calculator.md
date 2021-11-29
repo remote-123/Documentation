@@ -6,6 +6,4 @@ I created an easy accessible calculator for you, just make sure to fill out the 
 
 {% embed url="https://docs.google.com/spreadsheets/d/1muRbqvzukjZPYl6dqlUTp2sqbPcHly2wVwJhT7EoqSU/" %}
 
-[https://docs.google.com/spreadsheets/d/1muRbqvzukjZPYl6dqlUTp2sqbPcHly2wVwJhT7EoqSU/](https://docs.google.com/spreadsheets/d/1muRbqvzukjZPYl6dqlUTp2sqbPcHly2wVwJhT7EoqSU/)  
-
-
+[https://docs.google.com/spreadsheets/d/1muRbqvzukjZPYl6dqlUTp2sqbPcHly2wVwJhT7EoqSU/](https://docs.google.com/spreadsheets/d/1muRbqvzukjZPYl6dqlUTp2sqbPcHly2wVwJhT7EoqSU/)\
