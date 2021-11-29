@@ -6,7 +6,8 @@ description: You can only allow a selected amount of wallets to contribute to yo
 
 #### To Activate this Feature we charge another fee which is individual on every chain. **BSC = 0.2 BNB**
 
-![](<../../../.gitbook/assets/image (43).png>)
+![image](https://user-images.githubusercontent.com/44967066/143942470-1d2cac20-a0fb-4b7f-9136-4c6032ec2b26.png)
+
 
 ## How Many Addresses **Can I add**?
 
