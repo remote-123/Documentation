@@ -4,7 +4,7 @@ description: You can only allow a selected amount of wallets to contribute to yo
 
 # Whitelist
 
-#### To Activate this Feature we charge another fee which is individual on every chain. **BSC = 1 BNB** **KCS = 34 KCS**
+#### To Activate this Feature we charge another fee which is individual on every chain. **BSC = 0.2 BNB**
 
 ![](<../../../.gitbook/assets/image (43).png>)
 
