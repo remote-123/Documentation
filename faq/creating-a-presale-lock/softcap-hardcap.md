@@ -20,6 +20,5 @@ _SoftCap and HardCap are the two steps you need to achieve for listing your proj
 **If you don't reach Softcap/Hardcap and your timer runs out or you press "CANCEL":**
 
 * Makes all funds claimable back to the people who contributed 
-* The tokens of the presale creator are gone! 
 * You will need a new Wallet and Contract for a new presale
 
