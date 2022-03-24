@@ -1,6 +1,6 @@
 # Testing on a Testnetwork
 
-It’s really important for you to test the functions of your contract and the interaction with our platform. For this, we recommend the **Ropsten Test Network**. Just insert the same information you would in a regular presale but consider using a Soft/Hardcap which you can fill on your own. To attain some Testnet Currency go to “[**Moonborrow**](https://moonborrow.com)” and insert all the necessary information. After this has been done, deploy your contract with this [router](https://ropsten.etherscan.io/address/0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D).
+It’s really important for you to test the functions of your contract and the interaction with our platform. For this, we recommend the **Ropsten Test Network**. Just insert the same information you would in a regular presale, but consider using a Soft/Hardcap which you can reach on your own. To attain some Testnet Currency go to “[**Moonborrow**](https://moonborrow.com)” and insert all the necessary information. After this has been done, deploy your contract with this [router](https://ropsten.etherscan.io/address/0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D).
 
 **Test Network Guide**
 
@@ -36,11 +36,11 @@ This feature is currently deactivated for Ropsten but we’ll include it in the 
 
 **Vested Claim**
 
-With Vested Claim your users will be able to claim their presale tokens periodically rather than at once. Every time a vesting period passes users will be able to claim the vested tokens for that period. This feature is useful to prevent heavy sell pressure on launch and to support strong project growth.
+With Vested Claim your users will be able to claim their presale tokens periodically rather than all at once. Every time a vesting period passes, users will be able to claim the vested tokens for that period. This feature is useful to prevent heavy sell pressure on launch and to support strong project growth.
 
 **Whitelist**
 
-This feature will allow you to add all the addresses of your contributors and grant them access to the presale. Just insert their respective wallet addresses, hit “add” and our system will them check for validity. You can edit the whitelist anytime. **Note**: If you deactivate your whitelist your presale will be paused for 10 minutes. Nobody will be able to contribute in that timespan, so be aware of that.
+This feature will allow you to add all the addresses of your contributors and grant them access to the presale. Just insert their respective wallet addresses, hit “add” and our system will check the information for validity. You can edit the whitelist anytime. **Note**: If you deactivate the whitelist, your presale will be paused for 10 minutes. Nobody will be able to contribute in that timespan, so be aware of that.
 
 **Locking**
 

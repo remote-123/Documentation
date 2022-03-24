@@ -1,10 +1,8 @@
-# Which Presale Did I Buy?
+# Which Presale did I buy?
 
-If you don't remember anymore which presale you bought you can simply search by the **Contract Adress of the Token**.
+To find out which Tokens you bought, you can check the Blockchain Explorer.
 
-To find out which Tokens you bought, you can check on the Blockchain Explorer.
-
-### Check to which Presale Contract you sent your Contribution (Should look like this)
+### Check to which Presale Contract you sent your contribution (Should look like this)
 
 ![](../.gitbook/assets/image-9-.png)
 

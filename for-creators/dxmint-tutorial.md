@@ -52,7 +52,7 @@ Put the full name of your Token here.
 
 **Token Symbol:**
 
-This functions like a ticker symbol. For example, Avalanche is the name, AVAX is the symbol.
+This functions like a ticker symbol. For example: "Avalanche" is the name, "AVAX" is the symbol.
 
 **Token Decimal:**
 

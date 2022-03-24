@@ -16,16 +16,16 @@ First, check out the list of our official staff below. If you have any questions
 
 **Please beware of scammers. Many have attempted to impersonate our admins, our groups and even our website. Please always join our Telegram group @dxsale / @dxdevs for support.**
 
-Always make sure you communicate with one of us and not a scammer. If you are using our application please also ensure your URL is either DxSale.app or DxSale.one!
+Always make sure you communicate with one of us and not a scammer. If you are using our application, please also ensure your URL is either DxSale.app or DxSale.one!
 
 List of Admins (always double-check, there are "mailspoofers" around with fake Emails)
 
 * Krystal - @Kryxtalz (Community Manager) -angela@dxsale.network
 * Silent Man - @Spydo (Community Manager)
-* Cowboy . @cowboigp (Community Manager)
-* Kene . @ThisisKay (Community Manager) - kene@dxsale.network
-* Chong . @dxmchong(Community Manager) chong@dxsale.network
-* Ajise . @Ajise\_85 (Community Manager) ajise@dxsale.network
+* Cowboy - @cowboigp (Community Manager)
+* Kene - @ThisisKay (Community Manager) - kene@dxsale.network
+* Chong - @dxmchong(Community Manager) chong@dxsale.network
+* Ajise - @Ajise\_85 (Community Manager) ajise@dxsale.network
 * Luis - @Gz\_Luis (Community Manager) - luis@dxsale.network
 * DaRabus - @DRabus (Full Stack Engineer) - rabus@dxsale.network
 * Hash - @dxshas (Product Manager) - hash@dxsale.network

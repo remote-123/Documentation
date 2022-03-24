@@ -2,9 +2,9 @@
 
 Uniswap V2 has a limit on the maximum amount of Tokens in their liquidity.\
 \
-For us this plays an important role, since we are about to add this liquidity for you to the Router.\
+For us, this plays an important role, since we are about to add this liquidity for you to the router.\
 \
-To make this possible please ensure to reduce your decimals if you want to go with a token with a very big supply.\
+To make this possible, please ensure to reduce your decimals if you want to go with a token with a very big supply.\
 \
 Max Supply + Decimals = Max Amount of Tokens in the Liquidity
 

@@ -4,7 +4,7 @@
 
 The idea behind these features is to help investors identify high-risk tokens.
 
-This will encourage developers to have their contracts audited before an IDO on Dx and address as many weak points in the contract before it becomes a problem further down the line. Auditors are also available to advise on a better tokenomics model and ideal liquidity percentages to support the market.
+This will encourage developers to have their contracts audited before an IDO on Dx, and address as many weak points in the contract before it becomes a problem further down the line. Auditors are also available to advise on a better tokenomics model and ideal liquidity percentages to support the market.
 
 **Audit Partners**
 
@@ -26,7 +26,7 @@ This will encourage developers to have their contracts audited before an IDO on 
 
 **KYC**
 
-KYC stands for “Know your Customer”, the process of revealing your identity. In a space where most people want to act anonymously, it can be seen as counterintuitive to get KYC’ed, but practically all scams also work by never taking on personal responsibility. So by revealing your identity you will have a potent tool for building trust with your community.
+KYC stands for “Know your Customer”, the process of revealing your identity. In a space where most people want to act anonymously, it can be seen as counterintuitive to get KYC’ed, but practically all scams also work by never taking on personal responsibility. So, by revealing your identity you will have a potent tool for building trust with your community.
 
 **Another upside to being audited and KYC’ed:** This information will show up as badges on your project page on our dashboard and inform the whole community that you have taken these important steps, and as a result, you will be perceived as more trustworthy.
 

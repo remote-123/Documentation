@@ -1,4 +1,4 @@
-# My Logo doesn't show
+# My logo doesn't show
 
 **Logos need to be image URLS that end in .png, .jpg, .jpeg, or .gif file extensions.**\
 \*\*\*\*\
@@ -6,7 +6,7 @@
 
 Example [http://i.epvpimg.com/lHBqdab.png](http://i.epvpimg.com/lHBqdab.png)
 
-**If URLS don't end in the correct file extension they will not load!**
+**If URLS don't end in the correct file extension, they will not load!**
 
 We recommend the following service, there you've got the possibility to choose the "direct link".
 

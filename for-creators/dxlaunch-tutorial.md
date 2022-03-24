@@ -34,7 +34,7 @@ For a successful launch, your project will need to at least reach the Softcap. T
 
 **Contribution Limits:**
 
-Set the maximum amount for people to contribute. The lower you set the limit, the more people you need to reach your goal. If you set your limit too high, the chances of people dumping large proportions right on launch also raise. So keep in mind that there’s a sweet spot.
+Set the maximum amount for people to contribute. The lower you set the limit, the more people you need to reach your goal. If you set your limit too high, the chances of people dumping large proportions right on launch may increase. So keep in mind that there’s a sweet spot.
 
 **PancakeSwap/ApeSwap Liquidity:**
 

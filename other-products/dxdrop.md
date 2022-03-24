@@ -1,6 +1,6 @@
 # DxDrop
 
-Positive reinforcement is a mighty tool to keep your community engaged which in turn can facilitate funding efforts. For instance, gratitude can be expressed by rewarding tokens or native currency (like BNB on BSC) to early backers for reached milestones creating a space of mutual benefit and elevated confidence to further support the project.
+Positive reinforcement is a mighty tool to keep your community engaged which, in turn, can facilitate funding efforts. For instance, gratitude can be expressed by rewarding tokens or native currency (like BNB on BSC) to early backers for reached milestones, creating a space of mutual benefit and elevated confidence to further support the project.
 
 **How to**
 
