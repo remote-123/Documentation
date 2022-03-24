@@ -4,7 +4,7 @@ _**If you want to start a presale make sure you know and understand your sourcec
 
 **Here is a Checklist for what to do before starting:**
 
-1. I understand the Functions of my Contract.
+1. I understand the functions of my contract.
 2. I did disable all special transfer functions in my contract.
 3. I disabled all fees or anything similar while I do my presale.
 4. If I limit the Max Tokens per Wallet or Max Transaction Amount I did set this to 100% of my supply.
@@ -16,4 +16,4 @@ _**If you want to start a presale make sure you know and understand your sourcec
 
 {% embed url="https://www.youtube.com/channel/UCDrVyjNivEdu7_cIA53B0cg" %}
 
-****
+***

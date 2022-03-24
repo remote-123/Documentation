@@ -1,6 +1,6 @@
 # Telegram Groups
 
-#### We will never ask you for any funds or to visit any other websites besides our own. Please be aware of Scammers, we will never DM you.
+#### We will never ask you for any funds or to visit any other websites besides our own. Please be aware of scammers, we will never DM you.
 
 ## **Announcements Channel**
 

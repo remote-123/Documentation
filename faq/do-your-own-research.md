@@ -12,5 +12,6 @@ Go and ask the team questions. Get a feel for their responses and make your own 
 
 **The DeFi zone is also a lot riskier and requires much more attention to detail.**
 
-## **I**f you aren't sure about something avoid it.
+****
 
+## **I**f you aren't sure about something avoid it.

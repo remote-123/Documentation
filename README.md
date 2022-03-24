@@ -1,20 +1,24 @@
 # Start here
 
-**Dxsale.app is the Number one Decentralized Launchpad in the DeFi Space**
+**Dx Introduction**
 
-DxLaunch allows anyone to transfer their minted contract tokens to raise capital.
+With currently 13 supported chains, Dx is the biggest IDO Launchpad in the crypto space. As a truly decentralized token management platform, we aim for a low-barrier approach to launching your project. Instead of a steep learning curve and cumbersome interfaces, our platform will provide all the necessary tools to create and launch your project with no prior coding skills required. Of course, you can also use our platform if you’re just here to invest in a project you deem interesting. This will be the first decision you will face:
 
-Because DxLaunch allows custom tokens, you must review each project to determine for yourself if the owner has good intentions with their tokens.
+Are you an investor or a creator?
+
+If you’re both: **Even better**. But let’s take one thing at a time.
+
+First, check out the list of our official staff below. If you have any questions that can't be answered by reading our documentation consider asking them for advice in our official chat groups which are listed under the section "Links".
 
 [**Terms and Conditions**](https://dxsale.app/app/termsandconditions)
 
 ## **Real Admins**
 
-**Please beware of scammers. Many have attempted to impersonate our admins, our groups and even our website. Please always join our Telegram group @dxsale / @dxdevs for the fastest support**
+**Please beware of scammers. Many have attempted to impersonate our admins, our groups and even our website. Please always join our Telegram group @dxsale / @dxdevs for support.**
 
 Always make sure you communicate with one of us and not a scammer. If you are using our application please also ensure your URL is either DxSale.app or DxSale.one!
 
-List of Admins(always verrify double, there are "mailspoofers" around which fake Emails.:
+List of Admins (always double-check, there are "mailspoofers" around with fake Emails)
 
 * Krystal - @Kryxtalz (Community Manager) -angela@dxsale.network
 * Silent Man - @Spydo (Community Manager)
@@ -30,12 +34,4 @@ List of Admins(always verrify double, there are "mailspoofers" around which fake
 * Raphael - @dxsrph (UI Web3 Engineer) - raphael@dxsale.network
 * Dennis - @dxsden (UI Web3 Engineer) - dennis@dxsale.network
 
-## **ToDo List**
-
-We all know everyone likes detailed roadmaps but this space requires projects to be nimble and pivot frequently. Hence the following is a summary of some of our shorter term objectives.
-
-* DxMint Upgrade (Add DevFee Token and Earn Token)
-* Heco Chain Integration
-* CRO Chain Integration
-* DxScan (External scan page for all projects, locks and more launched or locked with DxSale)
-* DxFarm (Use existing farms with better APR incentives than competitors)
+## ****
