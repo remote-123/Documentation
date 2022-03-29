@@ -8,7 +8,7 @@ Are you an investor or a creator?
 
 If you’re both: **Even better**. But let’s take one thing at a time.
 
-First, check out the list of our official staff below. If you have any questions that can't be answered by reading our documentation consider asking them for advice in our official chat groups which are listed under the section "Links".
+First, check out the list of our official staff below. If you have any questions that can't be answered by reading our documentation, consider asking them for advice in our official chat groups which are listed under the section "Links".
 
 [**Terms and Conditions**](https://dxsale.app/app/termsandconditions)
 

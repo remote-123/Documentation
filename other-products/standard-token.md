@@ -12,7 +12,7 @@ The token Locker works by depositing a certain number of tokens. This ensures th
 
 **LP Locker**
 
-This Locker keeps the LP tokens you provide in a smart contract to initiate the liquidity pool for your project. Similar to the Regular Locker, this can help you gain your investors trust.
+DxLock is the only app to offer reward lockers. Reward lockers allow you to claim any rewards your token earns you such as BNB, ETH, USDT, BUSD or more anytime. Please note this is not a reflection token locker, reflections will accumulate and can only be withdrawn once the lock expires
 
 **Reward Locker**
 
