@@ -16,6 +16,6 @@ DxLock is the only app to offer reward lockers. Reward lockers allow you to clai
 
 **Reward Locker**
 
-These lockers are exclusive for tokens with reflection tokens like SafeMoon and guarantee the reflections you make are kept in the Locker. You can claim these rewards whenever you want!
+These lockers are exclusive for tokens with reflection tokens like Tikki/Baby Tokens and guarantee the reflections you make are kept in the Locker. You can claim these rewards whenever you want!
 
 &#x20;Click [here](https://medium.com/dxsale/dxlock-update-and-claim-update-3a98e6e43d94) for more information
