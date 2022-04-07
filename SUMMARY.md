@@ -5,6 +5,7 @@
   * [Telegram Groups](links/telegram-groups.md)
   * [Language Specific Channels](links/language-specific-channels.md)
   * [Official Networks](links/official-networks.md)
+* [API](api.md)
 
 ## Setup
 
