@@ -16,6 +16,8 @@ This Locker keeps the LP tokens you provide in a smart contract to initiate the 
 
 These lockers are exclusive for tokens with reflection tokens like Tikki/Baby Tokens and guarantee the reflections you make are kept in the Locker. You can claim these rewards whenever you want!
 
+(A 1% fee of the reward tokens is charged for claiming them, this fee goes to our SALE holders.)
+
 DxLock is the only app to offer reward lockers. Reward lockers allow you to claim any rewards your token earns you such as BNB, ETH, USDT, BUSD or more anytime. Please note this is not a reflection token locker, reflections will accumulate and can only be withdrawn once the lock expires.
 
 &#x20;Click [here](https://medium.com/dxsale/dxlock-update-and-claim-update-3a98e6e43d94) for more information
