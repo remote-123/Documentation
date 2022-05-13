@@ -22,10 +22,6 @@
 
 {% embed url="https://t.me/dxsalepresales" %}
 
-## **DxSale Token/Ecosystem Discussion Chat (Community Run)**
-
-{% embed url="https://t.me/priceDxSale1" %}
-
 ## **DxSale New Presales Tracking Bot**
 
 {% embed url="https://t.me/dxsalepresalebot" %}
