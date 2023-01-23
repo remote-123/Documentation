@@ -8,6 +8,6 @@ description: >-
 
 Below are a list of some of the best marketing firms that you can contact to help make your project more successful:
 
-* [Crypto Miners](https://cryptominersco.info)
+* [Crypto Miners](https://bio.link/CryptoMiners)
 * [Cryptic](https://t.me/Crypticsmma) ([Alternate Contact](https://t.me/AceCryptic))
 * [Crypto Safu](https://t.me/CryptoSafuGems)
