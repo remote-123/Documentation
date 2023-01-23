@@ -2,17 +2,17 @@
 
 * [DxSale Introduction](README.md)
 * [Team (Contact Us)](team-contact-us.md)
-* [🤖 API](api.md)
+* [API](api.md)
 * [Service Fees](service-fees.md)
-* [For Project Participants](for-project-participants/README.md)
-  * [General Advice](for-project-participants/general-advice.md)
+* [For Project Participants](for-investors/README.md)
+  * [General Advice](for-investors/general-advice.md)
 
 ## 📱 Dx Applications
 
 * [DxSale](dx-applications/dxsale.md)
-* [DxLock](dx-applications/standard-token.md)
+* [DxLock](other-products/standard-token.md)
 * [DxMint](dx-applications/dxmint.md)
-* [DxDrop](dx-applications/dxdrop.md)
+* [DxDrop](other-products/dxdrop.md)
 
 ## ❓ FAQ
 

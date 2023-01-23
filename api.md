@@ -4,7 +4,7 @@ description: >-
   DxSale website.
 ---
 
-# 🤖 API
+# API
 
 Our development team has taken time to put together an easily accessible API for traditional developers looking to integrate data from DxSale with their applications. You can view all the [API endpoints here](https://scan.dx.app/docs/).
 
