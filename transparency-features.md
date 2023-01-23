@@ -10,15 +10,15 @@ This will encourage developers to have their contracts audited before an IDO on 
 
 ****[Certik](https://www.certik.com)
 
-[Cyberscope](https://cyberscope.es)
+[Cyberscope](https://cyberscope.es/)
 
-[Solidproof](https://solidproof.io)
+[Solidproof](https://solidproof.io/)
 
-[Techrate](https://techrate.org)
+[Techrate](https://techrate.org/)
 
-[Solidity Finance](https://solidity.finance)
+[Solidity Finance](https://solidity.finance/)
 
-[HashEx](https://hashex.org)
+[HashEx](https://hashex.org/)
 
 [QuillAudits](https://audits.quillhash.com/smart-contract-audit)
 
@@ -32,15 +32,15 @@ KYC stands for “Know your Customer”, the process of revealing your identity.
 
 **KYC Partners**
 
-[Certik](https://www.certik.com)
+[Certik](https://www.certik.com/)
 
 [IDOPresales](https://idopresales.com/kyc-service-in-crypto/)
 
-[SolidProof](https://solidproof.io)
+[SolidProof](https://solidproof.io/)
 
-[Nanuqe](https://nanuqe.com)
+[Nanuqe](https://nanuqe.com/)
 
-[Cyberscope](https://cyberscope.es)
+[Cyberscope](https://cyberscope.es/)
 
 ****
 

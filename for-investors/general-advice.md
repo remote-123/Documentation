@@ -30,7 +30,7 @@ All scammers are liars, but luckily, most of them are really bad at it. Being ab
 
 **-Web Resources for Research**
 
-There are many useful websites for investigating projects. If you want to check for possible rug pulls we recommend sites like “[tokensniffer](https://tokensniffer.com)”, “[bscheck](https://www.bscheck.eu)”, or “[poocoin](https://poocoin.app)”. Just insert the contract address of the project and let the results speak for themselves. Another important metric is how many tokens sit in how many, or few, wallets. To check for that you can use “[bscscan](https://bscscan.com)” or “[etherscan](https://etherscan.io)” with the same method. Too many big wallets mean a higher chance of big dumps. So be aware of that.\
+There are many useful websites for investigating projects. If you want to check for possible rug pulls we recommend sites like “[tokensniffer](https://tokensniffer.com/)”, “[bscheck](https://www.bscheck.eu/)”, or “[poocoin](https://poocoin.app/)”. Just insert the contract address of the project and let the results speak for themselves. Another important metric is how many tokens sit in how many, or few, wallets. To check for that you can use “[bscscan](https://bscscan.com/)” or “[etherscan](https://etherscan.io/)” with the same method. Too many big wallets mean a higher chance of big dumps. So be aware of that.\
 \
 **Emergency Withdraw:**
 
