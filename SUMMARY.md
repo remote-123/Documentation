@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Start here](README.md)
+* [DxSale Introduction](README.md)
+* [Team](team.md)
 * [Links](links/README.md)
   * [Telegram Groups](links/telegram-groups.md)
   * [Language Specific Channels](links/language-specific-channels.md)
