@@ -1,8 +1,8 @@
 # DxLock
 
-Rapidly selling a large quantity of tokens can lead to price volatility, which can trigger panic selling and ultimately result in the downfall of a project and loss of investment. These schemes, known as "pump and dump" or "rug pull" are detrimental to building trust in a project. DxSale's unique "DxLock" feature allows creators to control the pace and quantity of token sales, providing reassurance to investors of their commitment to the project's long-term success. This feature also allows investors to use it as a hedge against fraud and a means to protect their investments.
+If a great quantity of tokens is sold too fast, a price shock transpires. This can lead to more panic selling, which usually results in the early death of a project and general loss of capital. Such schemes are commonly referred to as “pump and dump” or “rug pull”. This is why assuring price stability is one of the most important ways to promote trust in a project. By using “**DxLock**” creators can define when and how many tokens can be sold to reassure investors of their intentions. Of course, investors will be able to use this feature as well as a hedge against fraud or as a means to save up.
 
-### **Lock Types**
+**Lock Types**
 
 **Regular Locker**
 

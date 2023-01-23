@@ -1,11 +1,11 @@
 # General Advice
 
-It's important to be aware that the cryptocurrency space still has its fair share of bad actors. To assist new investors, we have compiled a useful list highlighting key warning signs to watch out for. Please note that this is not professional financial advice.
+You should be acutely aware that, sadly, there are still a lot of bad faith actors in the crypto sphere. To help new investors out, we have created a handy list with the most important things to look out for. **This is not financial advice.**
 
 **Indications of a bad project**
 
 * Really high hardcaps for meme projects.
-* Long presale end times of more than two weeks are generally suspicious, except for projects that have already proven to be trustworthy.
+* Long presale end times of more than one day are generally suspicious, except for projects that have already proven to be trustworthy.
 * Avoid anything that has a softcap that is less than half the hardcap
 * Avoid anything with a higher DEX listing rate than presale rate -> The price for the token will be cheaper on the DEX.
 * Avoid anything that has a DEX listing rate that is half or less of the presale rate -> You get fewer tokens per BNB on the DEX than presale.

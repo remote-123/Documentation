@@ -1,7 +1,3 @@
----
-description: For 1 Month DxSale is absolutely free to use!
----
+# Is Dxsale free?
 
-# Is DxSale free?
-
-For the next month DxSale is completely free to use, this means you can mint your token, launch your token and also lock your token or liquidity all for 0 upfront costs!
+Like every other service, Dx has to make ends meet. We put a lot of work and time into our platform and in order to keep it running, we have to charge fees. Compared to other launchpads we have some of the lowest fees in the space and we share our revenue.

@@ -8,9 +8,9 @@ description: >-
 
 Always make sure you communicate with one of us and not a scammer. If you are using our application, please also ensure your URL is either [Dx.app](https://dx.app) or [DxSale.app](https://dxsale.app) ([DxSale.network](https://dxsale.network) is also a valid domain for finding out more about our company and our other applications)
 
-Our community is primarily based in telegram, you can join our main [telegram chat here](https://t.me/dxsale) for any support or to share your upcoming presale with our community. ([中国用户群](https://t.me/dxsalecn))
+Our community is primarily based in telegram, you can join our main [telegram chat here](https://t.me/dxsale) for any support or to share your upcoming presale with our community.
 
-If you are a project looking to launch on DxSale or need support with using our application please contact any of the following:
+If You are a project looking to launch on DxSale or need support with using our application please contact any of the following:
 
 * Krystal - https://t.me/Kryxtalz
 * Luis - https://t.me/Gz\_Luis
@@ -22,7 +22,5 @@ For partnership requests please contact our founders Dennis, Hash and Raphael. P
 * Dennis - dennis@dxsale.network
 * Hash - hash@dxsale.network
 * Raphael - raphael@dxsale.network
-
-**ALWAYS VERIFY OUR USERNAMES WITH OUR MAIN TELEGRAM CHAT! IF SOMEONE DMs (Excluding our Sales Reps) YOU FIRST IT IS MOST LIKELY A SCAMMER!**
 
 \

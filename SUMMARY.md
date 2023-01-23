@@ -14,6 +14,12 @@
 * [DxMint](dx-applications/dxmint.md)
 * [DxDrop](other-products/dxdrop.md)
 
+## 🥂 DxSale Partners
+
+* [KYC (Know Your Customer)](dxsale-partners/kyc-know-your-customer.md)
+* [Audit](dxsale-partners/audit.md)
+* [Marketing Firms](dxsale-partners/marketing-firms.md)
+
 ## ❓ FAQ
 
 * [What is DxSale in Crypto?](faq/what-is-dxsale-in-crypto.md)
