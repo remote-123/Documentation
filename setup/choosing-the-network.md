@@ -5,7 +5,7 @@
 For using our Platform we recommend the following wallets:
 
 * [TokenPocket](https://www.tokenpocket.pro)
-* [MetaMask](https://metamask.io)
+* [MetaMask](https://metamask.io/)
 
 ### Switching Network
 
