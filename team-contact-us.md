@@ -8,7 +8,7 @@ description: >-
 
 Always make sure you communicate with one of us and not a scammer. If you are using our application, please also ensure your URL is either [Dx.app](https://dx.app) or [DxSale.app](https://dxsale.app) ([DxSale.network](https://dxsale.network) is also a valid domain for finding out more about our company and our other applications)
 
-Our community is primarily based in telegram, you can join our main [telegram chat here](https://t.me/dxsale) for any support or to share your upcoming presale with our community.
+Our community is primarily based in telegram, you can join our main [telegram chat here](https://t.me/dxsale) for any support or to share your upcoming presale with our community. ([中国用户群](https://t.me/dxsalecn))
 
 If you are a project looking to launch on DxSale or need support with using our application please contact any of the following:
 

@@ -2,10 +2,6 @@
 
 * [DxSale Introduction](README.md)
 * [Team (Contact Us)](team-contact-us.md)
-* [Links](links/README.md)
-  * [Telegram Groups](links/telegram-groups.md)
-  * [Language Specific Channels](links/language-specific-channels.md)
-  * [Official Networks](links/official-networks.md)
 * [API](api.md)
 
 ## Setup
