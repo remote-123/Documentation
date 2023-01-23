@@ -2,44 +2,25 @@
 
 * [DxSale Introduction](README.md)
 * [Team (Contact Us)](team-contact-us.md)
-* [API](api.md)
+* [🤖 API](api.md)
 * [Service Fees](service-fees.md)
+* [For Project Participants](for-project-participants/README.md)
+  * [General Advice](for-project-participants/general-advice.md)
 
-## Setup
+## 📱 Dx Applications
 
-* [Prerequisites](setup/choosing-the-network.md)
-* [Testing on a Testnetwork](setup/testing-on-a-testnetwork.md)
+* [DxSale](dx-applications/dxsale.md)
+* [DxLock](dx-applications/standard-token.md)
+* [DxMint](dx-applications/dxmint.md)
+* [DxDrop](dx-applications/dxdrop.md)
 
-***
+## ❓ FAQ
 
-* [For Creators](for-creators/README.md)
-  * [DxMint Tutorial](for-creators/dxmint-tutorial.md)
-  * [DxLaunch Tutorial](for-creators/dxlaunch-tutorial.md)
-* [For Investors](for-investors/README.md)
-  * [General Advice](for-investors/general-advice.md)
-
-## Other Products
-
-* [DxLock](other-products/standard-token.md)
-* [DxDrop](other-products/dxdrop.md)
-
-***
-
-* [Transparency Features](transparency-features.md)
-* [Fees](fees.md)
-
-## Native Token Sale
-
-* [BuyBackAndBurn](native-token-sale/buybackandburn.md)
-* [How to Buy SALE](native-token-sale/how-to-buy-sale.md)
-
-## FAQ
-
-* [What is Dxsale in Crypto?](faq/what-is-dxsale-in-crypto.md)
+* [What is DxSale in Crypto?](faq/what-is-dxsale-in-crypto.md)
 * [Is DxSale safe to use?](faq/is-dxsale-safe-to-use.md)
-* [Is Dxsale legit as a Project?](faq/is-dxsale-legit-as-a-project.md)
+* [Is DxSale legit as a Project?](faq/is-dxsale-legit-as-a-project.md)
 * [Is dx.app safe to use?](faq/is-dx.app-safe-to-use.md)
-* [Is Dxsale free?](faq/is-dxsale-free.md)
+* [Is DxSale free?](faq/is-dxsale-free.md)
 * [Creating a Presale/Lock](faq/creating-a-presale-lock/README.md)
   * [How To Start A Presale?](faq/creating-a-presale-lock/how-to-start-a-presale.md)
   * [Too Large Supply Error?](faq/creating-a-presale-lock/too-large-supply-error.md)
@@ -55,6 +36,5 @@
 * [I don't see the website](faq/i-dont-see-the-website.md)
 * [I cant find my Presale/Lock](faq/i-cant-find-my-presale-lock.md)
 * [I can't withdraw my Refund](faq/i-cant-withdraw-my-refund.md)
-* [Which Presale did I buy?](faq/which-presale-did-i-buy.md)
 * [Lexical Questions/Glossary](faq/lexical-questions-glossary.md)
 * [EMERGENCY WITHDRAWAL](faq/emergency-withdraw.md)
