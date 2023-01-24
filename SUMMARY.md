@@ -1,6 +1,7 @@
 # Table of contents
 
 * [DxSale Introduction](README.md)
+* [History of DxSale.Network](history-of-dxsale.network.md)
 * [Team (Contact Us)](team-contact-us.md)
 * [API](api.md)
 * [Service Fees](service-fees.md)
