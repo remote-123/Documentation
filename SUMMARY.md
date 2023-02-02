@@ -32,7 +32,7 @@
   * [How To Start A Presale?](faq/creating-a-presale-lock/how-to-start-a-presale.md)
   * [Too Large Supply Error?](faq/creating-a-presale-lock/too-large-supply-error.md)
   * [Fees?](faq/creating-a-presale-lock/fees.md)
-  * [Calculator](faq/creating-a-presale-lock/calculator.md)
+  * [Presale Calculator](faq/creating-a-presale-lock/calculator.md)
   * [I don't see my Code from DxMint](faq/creating-a-presale-lock/i-dont-see-my-code-from-dxmint.md)
   * [Where Does my Liquidity Go?](faq/creating-a-presale-lock/where-does-my-liquidity-go.md)
   * [Softcap / Hardcap](faq/creating-a-presale-lock/softcap-hardcap.md)
