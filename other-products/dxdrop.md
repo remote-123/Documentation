@@ -1,6 +1,8 @@
 # DxDrop
 
-Positive reinforcement is a mighty tool to keep your community engaged which, in turn, can facilitate funding efforts. For instance, gratitude can be expressed by rewarding tokens or native currency (like BNB on BSC) to early backers for reached milestones, creating a space of mutual benefit and elevated confidence to further support the project.
+Positive reinforcement is a powerful strategy for fostering engagement within your community and ultimately, driving funding success. Expressing appreciation, such as through the distribution of tokens or native currency as rewards for achieving milestones, can cultivate a mutually beneficial relationship and instill confidence in early backers to continue supporting the project.&#x20;
+
+DxDrop was created to allow owners of tokens to distribute their tokens to large amounts of users with minimal effort on their part!
 
 **How to**
 
