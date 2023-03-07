@@ -16,5 +16,4 @@ Click one of the partners below and fill out the form. A representative from the
 * [Flooz](https://forms.gle/aBHdyDzYWeNrg45S7)
 * [Seek](https://forms.gle/MrqhwAv53NvF9Hqf6)
 * [Cryptegridy](https://forms.gle/UR1eabveFVoWbLcr5)
-* [FusionTech](https://forms.gle/b6Ag9qVaxE5BviZ68)
-*
+
