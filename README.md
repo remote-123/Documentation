@@ -2,6 +2,8 @@
 description: >-
   DxSale is a leading launchpad, token minting and liquidity locking platform
   that streamlines the process of creating, launching and locking tokens.
+cover: .gitbook/assets/dxsalebanner.png
+coverY: 0
 ---
 
 # DxSale Introduction

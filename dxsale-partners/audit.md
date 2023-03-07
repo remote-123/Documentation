@@ -23,3 +23,5 @@ Please click on one of the partners below and complete the form. Once completed 
 * [AuditRateTech](https://forms.gle/5MXTuAHtZehJvzDM6)
 * [InterFi](https://forms.gle/KBdVc8athEpq7xc18)
 * [SafuAudit](https://forms.gle/EyK4CT4bdWW5Sr7H9)
+* [FusionTech](https://forms.gle/D7Jyt7WWd9t3Zuhh7)
+* [SecureWise](https://forms.gle/2Pp2ZpTJYEWzShVB9)
