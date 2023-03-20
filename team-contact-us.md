@@ -15,7 +15,8 @@ If you are a project looking to launch on DxSale or need support with using our 
 * Krystal - https://t.me/Kryxtalz
 * Luis - https://t.me/Gz\_Luis
 * Kene - https://t.me/ThisisKay
-* Ajise - https://t.me/Ajise\_85
+
+
 
 For partnership requests please contact our founders Dennis, Hash and Raphael. Please make sure to cc all the emails to get the fastest response.
 

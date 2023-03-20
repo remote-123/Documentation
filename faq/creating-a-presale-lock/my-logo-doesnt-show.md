@@ -12,4 +12,4 @@ We recommend the following service, there you've got the possibility to choose t
 
 {% embed url="https://epvpimg.com/" %}
 
-![](<../../.gitbook/assets/image (26).png>)
+![](<../../.gitbook/assets/image (26) (1).png>)

@@ -10,7 +10,9 @@
 
 ## 📱 Dx Applications
 
-* [DxSale](dx-applications/dxsale.md)
+* [DxSale](dx-applications/dxsale/README.md)
+  * [Standard Presale](dx-applications/dxsale/standard-presale.md)
+  * [Untitled](dx-applications/dxsale/untitled.md)
 * [DxLock](other-products/standard-token.md)
 * [DxMint](dx-applications/dxmint.md)
 * [DxDrop](other-products/dxdrop.md)
