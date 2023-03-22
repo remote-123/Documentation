@@ -1,4 +1,4 @@
-# Standard Presale
+# Standard Presale Tutorial
 
 Presale or standard presale is very simple type of presale, once you list your presale, buyers can buy the token from you at a presale rate of your choice which is then listed on a DEX at a listing rate of your choice.&#x20;
 
@@ -24,7 +24,7 @@ Copy paste your token address on the first step to get started.
 
 Once you get to Create your Presale, you are welcomed by couple of forms as shown below. Do not worry, we explain each of the items right below the screenshot.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -60,7 +60,7 @@ Once the funds are added, the market supply/demand for your token determines the
 Listing Rate should be equal or less than the presale rate
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (3).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -190,4 +190,4 @@ Liquidity Unlock Time must be minimum of 1 month from presale end time. This ens
 
 Review your presale and submit by clicking Start Presale and clicking confirm metamask to confirm transaction
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>

@@ -11,8 +11,9 @@
 ## 📱 Dx Applications
 
 * [DxSale](dx-applications/dxsale/README.md)
-  * [Standard Presale](dx-applications/dxsale/standard-presale.md)
-  * [Untitled](dx-applications/dxsale/untitled.md)
+  * [Standard Presale Tutorial](dx-applications/dxsale/standard-presale-tutorial.md)
+  * [FairLaunch Tutorial](dx-applications/dxsale/fairlaunch-tutorial.md)
+  * [OverFlow Tutorial](dx-applications/dxsale/overflow-tutorial.md)
 * [DxLock](other-products/standard-token.md)
 * [DxMint](dx-applications/dxmint.md)
 * [DxDrop](other-products/dxdrop.md)

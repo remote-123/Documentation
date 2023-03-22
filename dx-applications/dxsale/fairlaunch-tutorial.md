@@ -1,18 +1,6 @@
-# Untitled
+# FairLaunch Tutorial
 
-Presale or standard presale is very simple type of presale, once you list your presale, buyers can buy the token from you at a presale rate of your choice which is then listed on a DEX at a listing rate of your choice.&#x20;
-
-{% hint style="info" %}
-Some of the features such as Vesting and White listing can be enabled and used after presale has been listed
-{% endhint %}
-
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
-
-Once you understand how the presale flow works please see the tutorial steps below:
-
-**Creating the presale steps**
-
-Once you click Create Presale, you will be greeted with the following steps and form. You must complete each steps and forms correctly in order to successfully list the presale. Estimated time is 10 minutes if you are doing everything correctly.
+Fairlaunch is a special type of presale/crowdfunding/ico without any hardcap or maximum amount specified for the raise. Fairlaunch contributors can contribute until the timer of the fairlaunch ends which is specified by the fairlaunch creator. Fairlaunch must raise up to minimum of soft capacity amount for it to be considered successful.
 
 **Token Info**
 
@@ -20,15 +8,19 @@ Copy paste your token address on the first step to get started.
 
 <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-**Presale Information**
+In the Token Info section, you will be asked to provide FairLaunch Amount and Listing Amount for the FairLaunch presale. Ensure the FairLaunch Amount and Listing Amount is not more than the Total Supply. It is recommended that you allocate as much as possible for the FairLaunch Presale. Click Next When Ready.
 
-Once you get to Create your Presale, you are welcomed by couple of forms as shown below. Do not worry, we explain each of the items right below the screenshot.
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+**FairLaunch Information Section**
 
-&#x20;
+In this section you must determine key information regarding your Fairlaunch such as the minimum amount required for your FairLaunch to be considered a successful raise.
 
-&#x20;
+{% hint style="warning" %}
+Liquidity % going to the DEX must be at least 51%&#x20;
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **Presale Rate**
 
@@ -60,7 +52,7 @@ Once the funds are added, the market supply/demand for your token determines the
 Listing Rate should be equal or less than the presale rate
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (3).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -76,17 +68,7 @@ Soft cap cannot be less than 51% of hard cap amount
 
 &#x20;
 
-**Hard Cap**
-
-Hard cap / Hard capacity means the maximum amount of tokens that you can raise during the crowdsale/presale.
-
-{% hint style="info" %}
-Hard cap cannot be more than twice the soft cap amount
-{% endhint %}
-
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
-
-&#x20;
+****
 
 **Minimum and Maximum Contribution amount**
 
@@ -190,4 +172,4 @@ Liquidity Unlock Time must be minimum of 1 month from presale end time. This ens
 
 Review your presale and submit by clicking Start Presale and clicking confirm metamask to confirm transaction
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
