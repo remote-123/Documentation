@@ -2,15 +2,24 @@
 
 Fairlaunch is a special type of presale/crowdfunding/ico without any hardcap or maximum amount specified for the raise. Fairlaunch contributors can contribute until the timer of the fairlaunch ends which is specified by the fairlaunch creator. Fairlaunch must raise up to minimum of soft capacity amount for it to be considered successful.
 
+
+
+**FairLaunch Flow**
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Once you have understood the Fairlaunch flow, please move onto the Token Info section to start creating your very own Fairlaunch!\
+
+
 **Token Info**
 
 Copy paste your token address on the first step to get started.
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the Token Info section, you will be asked to provide FairLaunch Amount and Listing Amount for the FairLaunch presale. Ensure the FairLaunch Amount and Listing Amount is not more than the Total Supply. It is recommended that you allocate as much as possible for the FairLaunch Presale. Click Next When Ready.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 **FairLaunch Information Section**
 
@@ -20,7 +29,7 @@ In this section you must determine key information regarding your Fairlaunch suc
 Liquidity % going to the DEX must be at least 51%&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 **Presale Rate**
 
@@ -78,7 +87,7 @@ Minimum and maximum contribution amount is the range at which a buyer can fund y
 This is a good tool to stop any bulk buyers who can easily dump tokens at exchange post presale&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (61) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Minimum contribution cannot be 0, Maximum contribution cannot be lower than minimum and higher than Hardcap
@@ -128,7 +137,7 @@ Changing listing pair means instead of listing your token with native coin such 
 
 This feature must be enabled before Finalizing a presale after it’s successful! If you would like to use this feature, ensure you use this before clicking Finalize on your presale!
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Vested Claim means limiting your presale buyers / contributors from getting the tokens they have bought during presale all at once. You can customize the amount of tokens they can get and when. This can be used to prevent instant dumping that can happen when your token has made it to the DEX. This feature is accessible after the presale has already been listed.
 
@@ -156,11 +165,11 @@ The scheduling is an important step in the presale creation process. You must ch
 
 **Presale Start Time**
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (3).png" alt=""><figcaption></figcaption></figure>
 
 **Presale End Time**
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Liquidity Unlock Time**
 
@@ -172,4 +181,4 @@ Liquidity Unlock Time must be minimum of 1 month from presale end time. This ens
 
 Review your presale and submit by clicking Start Presale and clicking confirm metamask to confirm transaction
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>

@@ -6,7 +6,7 @@ DxDrop was created to allow owners of tokens to distribute their tokens to large
 
 **How to**
 
-****![](<../.gitbook/assets/image (50).png>)****
+****![](<../.gitbook/assets/image (50) (1).png>)****
 
 1. Connect your wallet
 2. Enter the token address

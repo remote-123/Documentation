@@ -18,13 +18,13 @@ Once you click Create Presale, you will be greeted with the following steps and 
 
 Copy paste your token address on the first step to get started.
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Presale Information**
 
 Once you get to Create your Presale, you are welcomed by couple of forms as shown below. Do not worry, we explain each of the items right below the screenshot.
 
-<figure><img src="../../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -84,7 +84,7 @@ Hard cap / Hard capacity means the maximum amount of tokens that you can raise d
 Hard cap cannot be more than twice the soft cap amount
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -96,7 +96,7 @@ Minimum and maximum contribution amount is the range at which a buyer can fund y
 This is a good tool to stop any bulk buyers who can easily dump tokens at exchange post presale&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (61) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Minimum contribution cannot be 0, Maximum contribution cannot be lower than minimum and higher than Hardcap
@@ -146,7 +146,7 @@ Changing listing pair means instead of listing your token with native coin such 
 
 This feature must be enabled before Finalizing a presale after it’s successful! If you would like to use this feature, ensure you use this before clicking Finalize on your presale!
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Vested Claim means limiting your presale buyers / contributors from getting the tokens they have bought during presale all at once. You can customize the amount of tokens they can get and when. This can be used to prevent instant dumping that can happen when your token has made it to the DEX. This feature is accessible after the presale has already been listed.
 
@@ -174,11 +174,11 @@ The scheduling is an important step in the presale creation process. You must ch
 
 **Presale Start Time**
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (3).png" alt=""><figcaption></figcaption></figure>
 
 **Presale End Time**
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Liquidity Unlock Time**
 
@@ -190,4 +190,4 @@ Liquidity Unlock Time must be minimum of 1 month from presale end time. This ens
 
 Review your presale and submit by clicking Start Presale and clicking confirm metamask to confirm transaction
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>

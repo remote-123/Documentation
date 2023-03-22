@@ -8,15 +8,19 @@
 * [For Project Participants](for-investors/README.md)
   * [General Advice](for-investors/general-advice.md)
 
-## 📱 Dx Applications
+## 📱 How to use DxSale
 
-* [DxSale](dx-applications/dxsale/README.md)
-  * [Standard Presale Tutorial](dx-applications/dxsale/standard-presale-tutorial.md)
-  * [FairLaunch Tutorial](dx-applications/dxsale/fairlaunch-tutorial.md)
-  * [OverFlow Tutorial](dx-applications/dxsale/overflow-tutorial.md)
-* [DxLock](other-products/standard-token.md)
-* [DxMint](dx-applications/dxmint.md)
-* [DxDrop](other-products/dxdrop.md)
+* [DxSale](how-to-use-dxsale/dxsale/README.md)
+  * [Standard Presale Tutorial](how-to-use-dxsale/dxsale/standard-presale-tutorial.md)
+  * [FairLaunch Tutorial](how-to-use-dxsale/dxsale/fairlaunch-tutorial.md)
+  * [OverFlow Tutorial](how-to-use-dxsale/dxsale/overflow-tutorial.md)
+* [DxLock](how-to-use-dxsale/standard-token/README.md)
+  * [Token Locker](how-to-use-dxsale/standard-token/token-locker/README.md)
+    * [Standard Token Lock Tutorial](how-to-use-dxsale/standard-token/token-locker/standard-token-lock-tutorial.md)
+    * [Reward Token Locker Tutorial](how-to-use-dxsale/standard-token/token-locker/reward-token-locker-tutorial.md)
+  * [Liquidity Locker](how-to-use-dxsale/standard-token/liquidity-locker.md)
+* [DxMint](how-to-use-dxsale/dxmint.md)
+* [DxDrop](how-to-use-dxsale/dxdrop.md)
 
 ## 🥂 DxSale Partners
 
