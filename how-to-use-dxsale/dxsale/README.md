@@ -1,6 +1,5 @@
 ---
 description: DxSale V4 launchpad Information.
-layout: landing
 ---
 
 # DxSale
@@ -23,7 +22,7 @@ There are few ways to navigate to DxSale presales. If you would like to create a
 
 On Mobile Browser click the hamburger menu to reveal the same type of top bar
 
-<img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="original">
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once you click Create Sale, you will be greeted with the following three options.
 

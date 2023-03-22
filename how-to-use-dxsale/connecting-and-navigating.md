@@ -12,7 +12,7 @@ To connect your wallet initially click Connect Wallet at the top right of the br
 
 
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (5).png" alt=""><figcaption></figcaption></figure>
 
 If you are on mobile you can find the same Connect Wallet Button on the top right hand corner of the mobile website.
 

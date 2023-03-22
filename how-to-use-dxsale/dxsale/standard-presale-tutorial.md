@@ -1,7 +1,3 @@
----
-layout: editorial
----
-
 # Standard Presale Tutorial
 
 Presale or standard presale is very simple type of presale, once you list your presale, buyers can buy the token from you at a presale rate of your choice which is then listed on a DEX at a listing rate of your choice.&#x20;

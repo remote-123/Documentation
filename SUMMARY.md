@@ -6,7 +6,13 @@
 * [DxSale Introduction](what-is-dxsale/readme.md)
 * [History of DxSale.Network](what-is-dxsale/history-of-dxsale.network.md)
 * [Team (Contact Us)](what-is-dxsale/team-contact-us.md)
-* [Service Fees](what-is-dxsale/service-fees.md)
+
+## 🏅 Why choose DxSale?
+
+* [DxSale Pedigree](why-choose-dxsale/dxsale-pedigree.md)
+* [How to have a successful launch](why-choose-dxsale/how-to-have-a-successful-launch.md)
+* [Dx Marketing and Incubation](why-choose-dxsale/dx-marketing-and-incubation.md)
+* [Service Fees](why-choose-dxsale/service-fees.md)
 
 ## 🛠 How to use DxSale
 

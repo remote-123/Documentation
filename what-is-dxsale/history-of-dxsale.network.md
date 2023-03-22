@@ -26,5 +26,5 @@ Jan 2023 - v4 release of dx platform and rebranding from DxSale to DxApps
 All of this can be verified on [https://t.me/DxSaleAnn](https://t.me/DxSaleAnn)
 {% endhint %}
 
-
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
