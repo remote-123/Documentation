@@ -10,6 +10,7 @@
 
 ## 📱 How to use DxSale
 
+* [Read me to start](how-to-use-dxsale/read-me-to-start.md)
 * [DxSale](how-to-use-dxsale/dxsale/README.md)
   * [Standard Presale Tutorial](how-to-use-dxsale/dxsale/standard-presale-tutorial.md)
   * [FairLaunch Tutorial](how-to-use-dxsale/dxsale/fairlaunch-tutorial.md)
