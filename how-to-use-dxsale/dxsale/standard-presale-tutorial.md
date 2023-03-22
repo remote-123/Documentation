@@ -1,3 +1,7 @@
+---
+layout: editorial
+---
+
 # Standard Presale Tutorial
 
 Presale or standard presale is very simple type of presale, once you list your presale, buyers can buy the token from you at a presale rate of your choice which is then listed on a DEX at a listing rate of your choice.&#x20;
@@ -124,7 +128,7 @@ Once you upload your image to Imgur, copy the Direct Link as shown below.
 
 Paste the direct link of the image or image address on to the logo link or banner link section as shown below
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (2).png" alt=""><figcaption></figcaption></figure>
 
 **More Features section**
 

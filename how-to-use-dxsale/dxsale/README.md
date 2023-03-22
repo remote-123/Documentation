@@ -1,5 +1,6 @@
 ---
 description: DxSale V4 launchpad Information.
+layout: landing
 ---
 
 # DxSale

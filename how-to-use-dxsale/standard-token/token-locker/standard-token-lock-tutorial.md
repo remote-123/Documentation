@@ -30,7 +30,7 @@ In the case of running into Metamask errors please do not hesitate to read this 
 
 DxLock Token Vesting is an optional feature that you can use to periodically withdraw your tokens. To use this simply click Open Token Vesting Settings. Select the total number of withdrawals that you would like to do followed by the period. Click enable token vesting when ready.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -63,7 +63,7 @@ Once you are at the manage page , you will be greeted with these following optio
 
 
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Extending Locker**
 

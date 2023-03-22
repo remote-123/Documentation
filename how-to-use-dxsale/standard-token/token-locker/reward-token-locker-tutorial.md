@@ -4,7 +4,7 @@ DxSale’s Reward locker is the only locker in this industry which allows you to
 
 You can click any of the pre-minted tokens on DxMint to do this step or if you have a token that you have created already, simply copy and paste it on the text section that says “Enter Token Address”.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (4).png" alt=""><figcaption></figcaption></figure>
 
 Once you paste your address you will see the website showing you more options. You must choose the amount of tokens that you want to lock via DxLock. To select you can either put the amount of tokens via text box or use the slider to give a % based amount that you want to select for the lock.
 
@@ -67,7 +67,7 @@ To extend your locker, go to the manage page as mentioned above
 You must extend your locker before your token lock expires. If the token lock expires you must withdraw everything and relock.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 **Claim tokens**
 

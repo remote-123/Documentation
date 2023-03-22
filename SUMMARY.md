@@ -1,16 +1,19 @@
 # Table of contents
 
-* [DxSale Introduction](README.md)
-* [History of DxSale.Network](history-of-dxsale.network.md)
-* [Team (Contact Us)](team-contact-us.md)
-* [API](api.md)
-* [Service Fees](service-fees.md)
-* [For Project Participants](for-investors/README.md)
-  * [General Advice](for-investors/general-advice.md)
+## 👋 What is DxSale?
 
-## 📱 How to use DxSale
+* [Read me to start](README.md)
+* [DxSale Introduction](what-is-dxsale/readme.md)
+* [History of DxSale.Network](what-is-dxsale/history-of-dxsale.network.md)
+* [Team (Contact Us)](what-is-dxsale/team-contact-us.md)
+* [Service Fees](what-is-dxsale/service-fees.md)
+
+## 🛠 How to use DxSale
 
 * [Read me to start](how-to-use-dxsale/read-me-to-start.md)
+* [Connecting & Navigating](how-to-use-dxsale/connecting-and-navigating.md)
+* [Buying Tokens](how-to-use-dxsale/buying-tokens/README.md)
+  * [How to do your own research before buying](how-to-use-dxsale/buying-tokens/how-to-do-your-own-research-before-buying.md)
 * [DxSale](how-to-use-dxsale/dxsale/README.md)
   * [Standard Presale Tutorial](how-to-use-dxsale/dxsale/standard-presale-tutorial.md)
   * [FairLaunch Tutorial](how-to-use-dxsale/dxsale/fairlaunch-tutorial.md)
@@ -22,6 +25,7 @@
   * [Liquidity Locker](how-to-use-dxsale/standard-token/liquidity-locker.md)
 * [DxMint](how-to-use-dxsale/dxmint.md)
 * [DxDrop](how-to-use-dxsale/dxdrop.md)
+* [API](how-to-use-dxsale/api.md)
 
 ## 🥂 DxSale Partners
 
