@@ -6,7 +6,7 @@ Fairlaunch is a special type of presale/crowdfunding/ico without any hardcap or 
 
 **FairLaunch Flow**
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 Once you have understood the Fairlaunch flow, please move onto the Token Info section to start creating your very own Fairlaunch!\
 

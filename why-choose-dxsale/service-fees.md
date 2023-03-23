@@ -1,7 +1,12 @@
 ---
-description: DxSale is completely free to use for 1 month!
+description: DxSale service fees are competitive and anti dump
 ---
 
 # Service Fees
 
-With the launch of V4 we have made DxSale completely free to use. Our original users and new users should take advantage of the promotion so that they can see what makes our new update better then all the competition!
+DxSale is **STILL** the only launchpad that has anti dump mechanism tied to the DxDAO. Any fees collected by our launchpad services such as token fee cannot be dumped by default. You can find our service fees during submission page of each product such as DxMint , DxSale or DxLock.\
+
+
+{% hint style="warning" %}
+The gas fee changes depends on the network. The overall DxSale fee is same on all networks however the gas fee can significantly increase or decrease depending on the network that you are trying to use. For example, Ethereum gas fees may be as high as $20 usd.
+{% endhint %}

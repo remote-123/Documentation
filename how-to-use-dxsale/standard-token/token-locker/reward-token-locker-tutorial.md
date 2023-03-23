@@ -73,4 +73,4 @@ You must extend your locker before your token lock expires. If the token lock ex
 
 DxLock’s Reward Lock is the only lock system in the world where you can claim any fees or rewards without having to unlock your tokens. If you want to claim any fees that have accumulated in the token address, simply go to manage page and click Claim under Native Reward or enter a custom Reward Token Address. Next press claim and confirm on Metamask to claim any fees that are accumulating.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>

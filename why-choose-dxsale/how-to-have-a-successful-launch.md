@@ -10,6 +10,10 @@ coverY: 0
 
 A successful launch means filling or exceeding the raise amount for your token. A healthy community and post raise marketing will take your token to the next level. To achieve a successful launch and healthy community post raise, you must ensure that your pre-launch is smooth.
 
+> _<mark style="color:orange;">As a rule of thumb, you always require 20% of raise as marketing budget. If you are raising 100k usd for your token, you should spend 20k usd for the smoothest launch possible</mark>_
+
+Speak to a DxSale Community Moderator and Customer Specialist for more information regarding [Dx Marketing and Incubation](dx-marketing-and-incubation.md)
+
 Follow this check list to have a successful launch:
 
 * [ ] Background Check via Dx partner
@@ -32,10 +36,6 @@ Follow this check list to have a successful launch:
   * [ ] News Articles
   * [ ] Mass youtube release
 * [ ] Beta testing of product / service post launch
-
-{% hint style="info" %}
-All of this can be verified on [https://t.me/DxSaleAnn](https://t.me/DxSaleAnn)
-{% endhint %}
 
 
 
