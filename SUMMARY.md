@@ -32,6 +32,7 @@
 * [DxMint](how-to-use-dxsale/dxmint.md)
 * [DxDrop](how-to-use-dxsale/dxdrop.md)
 * [API](how-to-use-dxsale/api.md)
+* [Affiliate / Referral](how-to-use-dxsale/affiliate-referral.md)
 
 ## 🥂 DxSale Partners
 
@@ -63,4 +64,3 @@
 * [I can't withdraw my Refund](faq/i-cant-withdraw-my-refund.md)
 * [Lexical Questions/Glossary](faq/lexical-questions-glossary.md)
 * [EMERGENCY WITHDRAWAL](faq/emergency-withdraw.md)
-* [How to use Referral System on Dx.App](faq/how-to-use-referral-system-on-dx.app.md)

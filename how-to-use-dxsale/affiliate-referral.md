@@ -1,8 +1,10 @@
 ---
-description: A step by step guide on how to use the referral dashboard
+description: >-
+  A step by step guide on how to use the referral dashboard to earn anywhere
+  from $10 to $100,000+ just by referring a sale!
 ---
 
-# How to use Referral System on Dx.App
+# Affiliate / Referral
 
 {% hint style="info" %}
 Head to [dx.app](https://dx.app)
