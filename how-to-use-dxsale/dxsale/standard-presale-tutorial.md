@@ -8,6 +8,18 @@ Some of the features such as Vesting and White listing can be enabled and used a
 
 <figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="warning" %}
+The following are the 7 commandments of DxSale that you must adhere to, to avoid issues and to have a smooth launch
+
+* I understand the functions of my contract.
+* I disabled all special transfer functions in my contract.
+* I disabled all fees or anything similar while I do my presale.
+* I have set Max Transaction Per Wallet to 100% of my supply.
+* I did NOT renounce ownership of my contract.
+* I am aware of what Liquidity is.
+* I did NOT add Tokens to the DEX already.
+{% endhint %}
+
 Once you understand how the presale flow works please see the tutorial steps below:
 
 **Creating the presale steps**

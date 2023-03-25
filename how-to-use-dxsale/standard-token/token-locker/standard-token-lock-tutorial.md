@@ -55,7 +55,7 @@ To get to the locker page after you have created your locker you can simply clic
 \
 
 
-<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (36) (3).png" alt=""><figcaption></figcaption></figure>
 
 **Withdrawing tokens from locker**
 

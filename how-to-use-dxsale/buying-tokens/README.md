@@ -6,7 +6,7 @@ description: This is a how to guide for buying tokens on DxSale Presales
 
 Buying tokens on DxSale is as easy as counting 1-2-3... To buy a presale that you like on [https://dx.app/](https://dx.app/) or [https://dxsale.app/](https://dxsale.app/) - simply navigate to the dashboard by clicking View Sales button or View Sales on home page as shown below:
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You will be then presented by the dashboard where you can click any of the sales that you like such as follows:
 
