@@ -5,7 +5,9 @@ description: >-
   normal withdrawal when a sale is cancelled!
 ---
 
-# EMERGENCY WITHDRAWAL
+# Emergency Withdrawal
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### When should I use emergency withdraw?
 

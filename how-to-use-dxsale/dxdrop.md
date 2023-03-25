@@ -4,9 +4,9 @@ Positive reinforcement is a powerful strategy for fostering engagement within yo
 
 DxDrop was created to allow owners of tokens to distribute their tokens to large amounts of users with minimal effort on their part!
 
-**How to**
+**How to use DxDrop**
 
-****![](<../.gitbook/assets/image (50) (1).png>)****
+<figure><img src="../.gitbook/assets/image (50) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Connect your wallet
 2. Enter the token address
@@ -19,4 +19,9 @@ The same applies when you want to airdrop some base currency like BNB. For this 
 
 **Number of Addresses**
 
-Depending on the chain, the number of simultaneous transactions can vary because of different block sizes. If you experience any errors, consider reducing the number of transactions issued at a time.
+Depending on the chain, the number of simultaneous transactions can vary because of different block sizes.&#x20;
+
+{% hint style="info" %}
+If you experience any errors, consider reducing the number of transactions issued at a time.
+{% endhint %}
+

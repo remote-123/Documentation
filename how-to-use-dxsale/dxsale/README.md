@@ -18,11 +18,11 @@ There are few ways to navigate to DxSale presales. If you would like to create a
 
 #### On Computer Browsers
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 On Mobile Browser click the hamburger menu to reveal the same type of top bar
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Once you click Create Sale, you will be greeted with the following three options.
 

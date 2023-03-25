@@ -17,4 +17,4 @@ When you are on the home page of [https://dx.app/](https://dx.app/) or [https://
 
 You can also hover on DxApps and click “Lock Tokens” or “Lock LP”
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (2).png" alt=""><figcaption></figcaption></figure>

@@ -28,9 +28,9 @@ Once you click connect wallet on browser you will be greeted by this DxSale Wall
 
 You can easily click and choose which wallet to connect to via browser by clicking any one of the 4 choices in the browser extensions section.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 Clicking Wallet Connect will give you a QR code which then you can scan from your mobile wallet to connect easily.
 

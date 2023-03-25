@@ -18,7 +18,7 @@ Following are the optional options of Logo URL and Link to Your project. You can
 Highly recommend filling out Logo Url and Link to identify your project to give your community an easy identification to look for if they ever search for your token. A missing logo url or website is usually seen by communities as lack of care for the project
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>
 
 Once you click Lock Tokens, you will be greeted with Metamask Confirmation. Press Confirm to confirm your lock. Congratulations! You have successfully created your very own DxLock
 
@@ -30,7 +30,7 @@ In the case of running into Metamask errors please do not hesitate to read this 
 
 DxLock Token Vesting is an optional feature that you can use to periodically withdraw your tokens. To use this simply click Open Token Vesting Settings. Select the total number of withdrawals that you would like to do followed by the period. Click enable token vesting when ready.
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Managing Lockers**
 
@@ -67,7 +67,7 @@ To extend your locker, go to the manage page as mentioned above
 You must extend your locker before your token lock expires. If the token lock expires you must withdraw everything and relock.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Claim tokens**
 

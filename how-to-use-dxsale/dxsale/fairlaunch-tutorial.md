@@ -41,7 +41,7 @@ Presale Rate is the rate at which users get your token when they pay with native
 Presale Rate must be equal or more than the listing rate
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (2).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -137,7 +137,7 @@ Changing listing pair means instead of listing your token with native coin such 
 
 This feature must be enabled before Finalizing a presale after it’s successful! If you would like to use this feature, ensure you use this before clicking Finalize on your presale!
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Vested Claim means limiting your presale buyers / contributors from getting the tokens they have bought during presale all at once. You can customize the amount of tokens they can get and when. This can be used to prevent instant dumping that can happen when your token has made it to the DEX. This feature is accessible after the presale has already been listed.
 
@@ -181,4 +181,4 @@ Liquidity Unlock Time must be minimum of 1 month from presale end time. This ens
 
 Review your presale and submit by clicking Start Presale and clicking confirm metamask to confirm transaction
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (4).png" alt=""><figcaption></figcaption></figure>

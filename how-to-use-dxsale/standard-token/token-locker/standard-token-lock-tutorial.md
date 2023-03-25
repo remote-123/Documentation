@@ -18,7 +18,7 @@ Following are the optional options of Logo URL and Link to Your project. You can
 Highly recommend filling out Logo Url and Link to identify your project to give your community an easy identification to look for if they ever search for your token. A missing logo url or website is usually seen by communities as lack of care for the project
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 Once you click Lock Tokens, you will be greeted with Metamask Confirmation. Press Confirm to confirm your lock. Congratulations! You have successfully created your very own DxLock
 

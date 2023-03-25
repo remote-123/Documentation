@@ -14,6 +14,8 @@ A successful launch means filling or exceeding the raise amount for your token. 
 
 Speak to a DxSale Community Moderator and Customer Specialist for more information regarding [Dx Marketing and Incubation](dx-marketing-and-incubation.md)
 
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
 Follow this check list to have a successful launch:
 
 * [ ] Background Check via Dx partner
