@@ -14,10 +14,10 @@ Please make a telegram group with DxSale CMs, Sales, and Founders for the best e
 * @dxsrph - Raphael Co founder&#x20;
 * @dxskny - Kenny Co founder
 * @dxsden - Dennis Co Founder
-* @sleek\_007 - Joel Community Mod
-* @Gz\_Luis - Luis AMA host
-* @isenosehokage - Isenose Community Mod
-* @Kryxtalz - Angela Community Mod\
+* @dxsjoe - Joel Onboarding lead
+* @isenosehokage - Isenose Onboarding Lead
+* @Kryxtalz - Angela Sales Lead
+* @escortscisor - Scisor Onboarding Lead\
 
 
 _**If you are not able to make the group, you can also let one of the Community mods to make a group, they will make the group for us**_
