@@ -18,6 +18,7 @@ If you are a call channel on telegram or on discord and would like to collaborat
     * The above link is only for v4, from v5 it will be directly on the dxsale.app referrals page
 * [ ] A free spot on DxMarketing Application (Coming in v5)
   * This will open up a huge clientele for your call channel business for AMAs or pinned posts
+  * Currently DxMarketing is done manually via our on boarding team.
 * [ ] A free voucher for the up coming DxAds system
   * You can advertise your call channel directly on dxsale.app or dx.app
 * [ ] Free lounge access for DxSale partners
@@ -106,3 +107,4 @@ https://dx.app/overflowcreate?ref=launch\&chain=BNB\
 {% hint style="info" %}
 Doing the above passively earns you 25% of what DxSale earns just by having your community use DxSale clicking links in this bot
 {% endhint %}
+
