@@ -73,5 +73,5 @@ To extend your locker, go to the manage page as mentioned above.
 You must extend your locker before your token lock expires. If the token lock expires you must withdraw everything and relock.
 {% endhint %}
 
-****
+
 

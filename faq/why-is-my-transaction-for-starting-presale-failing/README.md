@@ -19,7 +19,7 @@ Follow this flow chart to figure out what to do in case transaction for starting
 
 You may get a pop up timer error or you may get an error during the final submission page of your presale creation. This is due to the time that you have chosen. There are cases where users start creating the presale 10 minutes prior to their preferred time; however, click submit after their preferred time that they've chosen on the first page. If this happens, you will get a transaction failure or error. Please choose a time that is half an hour or more so it gives you time to make decisions when choosing presale time.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Please set your start timer a minimum of 10 minutes from now.**&#x20;
 

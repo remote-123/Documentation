@@ -6,7 +6,7 @@ Dxmint is a token minter / token maker. Users can easily create their own token 
 
 There are few ways to access DxMint. First way is to do it from the [https://dx.app/](https://dx.app/) or [https://dxsale.app/](https://dxsale.app/) home page by clicking Mint Token DxMint box as shown below.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 The second way to access it from any screen is to click DxApps on the top bar of the website and click DxMint as shown below.
 

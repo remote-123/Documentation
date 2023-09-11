@@ -43,6 +43,13 @@
 
 ## 🥂 DxSale Partners
 
+* [DxSale wants to collaborate with you](dxsale-partners/dxsale-wants-to-collaborate-with-you/README.md)
+  * [Influencer](dxsale-partners/dxsale-wants-to-collaborate-with-you/influencer.md)
+  * [Listing Services](dxsale-partners/dxsale-wants-to-collaborate-with-you/listing-services.md)
+  * [Wallets](dxsale-partners/dxsale-wants-to-collaborate-with-you/wallets.md)
+  * [Marketing Services](dxsale-partners/dxsale-wants-to-collaborate-with-you/marketing-services.md)
+  * [Network](dxsale-partners/dxsale-wants-to-collaborate-with-you/network.md)
+  * [Call Channels](dxsale-partners/dxsale-wants-to-collaborate-with-you/call-channels.md)
 * [KYC (Know Your Customer)](dxsale-partners/kyc-know-your-customer.md)
 * [Audit](dxsale-partners/audit.md)
 * [Marketing Firms](dxsale-partners/marketing-firms.md)

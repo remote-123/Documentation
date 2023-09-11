@@ -16,7 +16,7 @@ To connect your wallet initially click Connect Wallet at the top right of the br
 
 If you are on mobile you can find the same Connect Wallet Button on the top right hand corner of the mobile website.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (3).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 In case you are unable to connect wallet on the network you are trying to connect to please check the RPC url of your wallet. You can check the correct rpc from: [https://chainlist.org/](https://chainlist.org/)

@@ -69,7 +69,7 @@ Once the funds are added, the market supply/demand for your token determines the
 Listing Rate should be equal or less than the presale rate
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (9) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -85,7 +85,7 @@ Soft cap cannot be less than 51% of hard cap amount
 
 &#x20;
 
-****
+
 
 **Minimum and Maximum Contribution amount**
 
@@ -177,7 +177,7 @@ The scheduling is an important step in the presale creation process. You must ch
 
 **Presale End Time**
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Liquidity Unlock Time**
 

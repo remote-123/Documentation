@@ -18,4 +18,4 @@ Developer fee is being collected by the developer team (in this case yourself) t
 
 Once you go into Fee token tab, you will be greeted with the form as shown below. Please follow the screenshot guideline and understand how the flow works and what the fees are about.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
