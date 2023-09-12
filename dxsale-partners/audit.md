@@ -10,6 +10,7 @@ Please click on one of the partners below and complete the form. Once completed 
 
 * [Certik](https://forms.gle/T2hxYaMLR54cmcB68)
 * [Cyberscope](https://forms.gle/dcaRuUWwvCxCtoCF9)
+* [AssureDefi](https://assuredefi.com/)
 * [Solidproof](https://forms.gle/yaqhTrCfKXMEixAp6)
 * [SolidityFinance](https://forms.gle/7tpk7sbpti7tttCA7)
 * [TechRate](https://forms.gle/rd2Qkv8BsCA1ZQWQ8)
