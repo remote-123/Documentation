@@ -6,6 +6,6 @@ description: >-
 
 # API
 
-Our development team has taken time to put together an easily accessible API for traditional developers looking to integrate data from DxSale with their applications. You can view all the [API endpoints here](https://scan.dx.app/docs/).
+Our development team has taken time to put together an easily accessible API for traditional developers looking to integrate data from [DxSale](https://dx.app/?ref=raphaeldx\&chain=BNB) with their applications. You can view all the [API endpoints here](https://scan.dx.app/docs/).
 
 For help or more information please reach out to dennis@dxsale.network and cc rabus@dxsale.network.

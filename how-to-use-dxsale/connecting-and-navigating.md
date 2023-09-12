@@ -8,7 +8,7 @@ description: >-
 
 #### Find where to connect wallet <a href="#find-where-to-connect-wallet" id="find-where-to-connect-wallet"></a>
 
-To connect your wallet initially click Connect Wallet at the top right of the browser on [https://dx.app/](https://dx.app/) or [https://dxsale.app/](https://dxsale.app/) as shown below on the screenshot.
+To connect your wallet initially click Connect Wallet at the top right of the browser on [https://dx.app/](https://dx.app/?ref=raphaeldx\&chain=BNB) or [https://dxsale.app/](https://dxsale.app/?ref=raphaeldx\&chain=BNB) as shown below on the screenshot.
 
 
 
@@ -62,7 +62,7 @@ We have included only Trust Wallet and Metamask information. Please do your own 
 
 ### DxSale Multi Network Switcher <a href="#dxsale-multi-network-switcher" id="dxsale-multi-network-switcher"></a>
 
-DxSale supports 18 networks and they can be accessed via the network icon on the top right of the browser.
+[DxSale](https://dx.app/?ref=raphaeldx\&chain=BNB) supports 18 networks and they can be accessed via the network icon on the top right of the browser.
 
 ### &#x20;<a href="#dxmint" id="dxmint"></a>
 

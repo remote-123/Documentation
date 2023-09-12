@@ -10,13 +10,13 @@ coverY: 0
 
 **Being the first ain't easy**
 
-DxSale came at a time when raising funds meant knowing how to code in solidity or trusting someone with funds. Our revolutionary smart contracts changed the Decentralized Finance Industry history for the better ensuring ease of use and security for all. After a whole year of DxSale, competitor launchpads have followed our lead and still follows our innovations till this date.&#x20;
+[DxSale](https://dx.app/?ref=raphaeldx\&chain=BNB) came at a time when raising funds meant knowing how to code in solidity or trusting someone with funds. Our revolutionary smart contracts changed the Decentralized Finance Industry history for the better ensuring ease of use and security for all. After a whole year of [DxSale](https://dx.app/?ref=raphaeldx\&chain=BNB), competitor launchpads have followed our lead and still follows our innovations till this date.&#x20;
 
 
 
 **Historic Launches**
 
-The launches that have happened on DxSale have proved time and time again why DxSale is the place to be for launching your token. Some of our most notable launches have an astounding ramp of <mark style="color:green;">**10,400% to 80,325,000%**</mark>&#x20;
+The launches that have happened on [DxSale](https://dx.app/?ref=raphaeldx\&chain=BNB) have proved time and time again why [DxSale](https://dx.app/?ref=raphaeldx\&chain=BNB) is the place to be for launching your token. Some of our most notable launches have an astounding ramp of <mark style="color:green;">**10,400% to 80,325,000%**</mark>&#x20;
 
 {% hint style="info" %}
 The biggest launches in DeFi have all launched on DxSale
@@ -26,7 +26,7 @@ The biggest launches in DeFi have all launched on DxSale
 
 **World Wide reach**
 
-DxSale has consistently reached users world wide without incentivizing click farming that other launchpads utilize. DxSale is the **ONLY** launchpad where clicking and visiting the website cannot be farmed and only to be used to browse and purchase tokens in a secure way without any proxies. DxSale is also the **ONLY** launchpad where it's completely smart contract dependent and not dependant on APIs from scan websites.&#x20;
+[DxSale](https://dx.app/?ref=raphaeldx\&chain=BNB) has consistently reached users world wide without incentivizing click farming that other launchpads utilize. [DxSale](https://dx.app/?ref=raphaeldx\&chain=BNB) is the **ONLY** launchpad where clicking and visiting the website cannot be farmed and only to be used to browse and purchase tokens in a secure way without any proxies. [DxSale](https://dx.app/?ref=raphaeldx\&chain=BNB) is also the **ONLY** launchpad where it's completely smart contract dependent and not dependant on APIs from scan websites.&#x20;
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -38,7 +38,7 @@ DxSale has consistently reached users world wide without incentivizing click far
 
 ## Exclusive Access&#x20;
 
-DxSale offers exclusive access to world class marketers, exchange listings, businesses partnerships and technical integrations.&#x20;
+[DxSale](https://dx.app/?ref=raphaeldx\&chain=BNB) offers exclusive access to world class marketers, exchange listings, businesses partnerships and technical integrations.&#x20;
 
 * Exclusive Email News Letter to over 40,000 emails to spread your project
 * Included bot listing on all channels as soon as you list or lock your project

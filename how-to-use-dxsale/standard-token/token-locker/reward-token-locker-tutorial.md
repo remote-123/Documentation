@@ -1,12 +1,12 @@
 # Reward Token Locker Tutorial
 
-DxSale’s Reward locker is the only locker in this industry which allows you to claim rewards without unlocking the locks.
+[DxSale’s Reward locker](https://dx.app/dxlock?ref=raphaeldx\&chain=BNB) is the only locker in this industry which allows you to claim rewards without unlocking the locks.
 
-You can click any of the pre-minted tokens on DxMint to do this step or if you have a token that you have created already, simply copy and paste it on the text section that says “Enter Token Address”.
+You can click any of the pre-minted tokens on [DxMint](https://dx.app/dxmint?ref=raphaeldx\&chain=BNB) to do this step or if you have a token that you have created already, simply copy and paste it on the text section that says “Enter Token Address”.
 
 <figure><img src="../../../.gitbook/assets/image (6) (4).png" alt=""><figcaption></figcaption></figure>
 
-Once you paste your address you will see the website showing you more options. You must choose the amount of tokens that you want to lock via DxLock. To select you can either put the amount of tokens via text box or use the slider to give a % based amount that you want to select for the lock.
+Once you paste your address you will see the website showing you more options. You must choose the amount of tokens that you want to lock via [DxLock](https://dx.app/dxlock?ref=raphaeldx\&chain=BNB). To select you can either put the amount of tokens via text box or use the slider to give a % based amount that you want to select for the lock.
 
 Next is an optional token vesting feature, you can use it if you would like periodical withdraw instead of a full withdraw at the unlocking time. To read more about this please see the next subsection.
 
@@ -28,7 +28,7 @@ In the case of running into Metamask errors please do not hesitate to read this 
 
 **Token Vesting**
 
-DxLock Token Vesting is an optional feature that you can use to periodically withdraw your tokens. To use this simply click Open Token Vesting Settings. Select the total number of withdrawals that you would like to do followed by the period. Click enable token vesting when ready.
+[DxLock](https://dx.app/dxlock?ref=raphaeldx\&chain=BNB) Token Vesting is an optional feature that you can use to periodically withdraw your tokens. To use this simply click Open Token Vesting Settings. Select the total number of withdrawals that you would like to do followed by the period. Click enable token vesting when ready.
 
 <figure><img src="../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -71,6 +71,6 @@ You must extend your locker before your token lock expires. If the token lock ex
 
 **Claim tokens**
 
-DxLock’s Reward Lock is the only lock system in the world where you can claim any fees or rewards without having to unlock your tokens. If you want to claim any fees that have accumulated in the token address, simply go to manage page and click Claim under Native Reward or enter a custom Reward Token Address. Next press claim and confirm on Metamask to claim any fees that are accumulating.
+[DxLock’s](https://dx.app/dxlock?ref=raphaeldx\&chain=BNB) Reward Lock is the only lock system in the world where you can claim any fees or rewards without having to unlock your tokens. If you want to claim any fees that have accumulated in the token address, simply go to manage page and click Claim under Native Reward or enter a custom Reward Token Address. Next press claim and confirm on Metamask to claim any fees that are accumulating.
 
 <figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>

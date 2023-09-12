@@ -2,9 +2,9 @@
 
 Positive reinforcement is a powerful strategy for fostering engagement within your community and ultimately, driving funding success. Expressing appreciation, such as through the distribution of tokens or native currency as rewards for achieving milestones, can cultivate a mutually beneficial relationship and instill confidence in early backers to continue supporting the project.&#x20;
 
-DxDrop was created to allow owners of tokens to distribute their tokens to large amounts of users with minimal effort on their part!
+[DxDrop](https://dx.app/?ref=raphaeldx\&chain=BNB) was created to allow owners of tokens to distribute their tokens to large amounts of users with minimal effort on their part!
 
-**How to use DxDrop**
+**How to use** [**DxDrop**](https://dx.app/?ref=raphaeldx\&chain=BNB)
 
 <figure><img src="../.gitbook/assets/image (50) (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -7,13 +7,13 @@ description: >-
 
 # Listing Services
 
-If you have a listing service for various listings in CEX, Upvotes, reddit etc. and would like to collaborate with us at DxSale and become part of the Dx Ecosystem - please contact one of the team members from the following section:
+If you have a listing service for various listings in CEX, Upvotes, reddit etc. and would like to collaborate with us at [DxSale](https://dx.app/?ref=raphaeldx\&chain=BNB) and become part of the Dx Ecosystem - please contact one of the team members from the following section:
 
 
 
 **What do we offer to our Listing Services partner?**
 
-* [ ] 25% of what DxSale earns from your referrals.
+* [ ] 25% of what [DxSale](https://dx.app/?ref=raphaeldx\&chain=BNB) earns from your referrals.
   * You can claim your earnings directly from the referral section of DxSale.
     * Currently the referral system is under works for partners. You can access the pre-v5 partner referral claim at: [https://www.dxsale25.online/](https://www.dxsale25.online/)&#x20;
     * The above link is only for v4, from v5 it will be directly on the dxsale.app referrals page

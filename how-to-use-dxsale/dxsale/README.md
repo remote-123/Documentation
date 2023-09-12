@@ -4,7 +4,7 @@ description: DxSale V4 launchpad Information.
 
 # DxSale
 
-DxLaunch is where users can easily list their tokens for crowd funding. There are no coding required and users can launch within minutes. The users just need to worry about building their own products. There are three different DxSales: FairLaunch, OverFlow, Regular Presale
+DxLaunch is where users can easily list their tokens for crowd funding. There are no coding required and users can launch within minutes. The users just need to worry about building their own products. There are three different [DxSales](https://dx.app/dxsale?ref=raphaeldx\&chain=BNB): FairLaunch, OverFlow, Regular Presale
 
 {% hint style="info" %}
 Please click the subpages to learn more about each of the different DxSale presales
@@ -14,7 +14,7 @@ Please click the subpages to learn more about each of the different DxSale presa
 
 ### How to navigate to DxSale Presale <a href="#how-to-navigate-to-dxsale-presale" id="how-to-navigate-to-dxsale-presale"></a>
 
-There are few ways to navigate to DxSale presales. If you would like to create a presale please see the different ways below:
+There are few ways to navigate to [DxSale](https://dx.app/dxsale?ref=raphaeldx\&chain=BNB) presales. If you would like to create a presale please see the different ways below:
 
 #### On Computer Browsers
 

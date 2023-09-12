@@ -60,7 +60,7 @@ Presale Rate must be equal or more than the listing rate
 
 **Listing Rate**
 
-Listing Rate is the rate at which users get your token when they purchase at the DEX. This listing rate only applies when the Presale ends and the token and funds get added to the liquidity pool of the Dex (DxSale creates an exchange pair for you automatically - no coding or manually adding required!).
+Listing Rate is the rate at which users get your token when they purchase at the DEX. This listing rate only applies when the Presale ends and the token and funds get added to the liquidity pool of the Dex ([DxSale](https://dx.app/dxsale?ref=raphaeldx\&chain=BNB) creates an exchange pair for you automatically - no coding or manually adding required!).
 
 {% hint style="info" %}
 Once the funds are added, the market supply/demand for your token determines the price at which users can buy/sell at the DEX. If your token is bought heavily after listing - the price of the token will go up. This means that you will get less tokens for the same amount of native token. If the token is heavily sold after listing, the price of the token will go down. This means that you will get more tokens for the same amount of native token.&#x20;

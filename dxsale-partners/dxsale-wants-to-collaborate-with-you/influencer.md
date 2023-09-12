@@ -7,7 +7,7 @@ description: >-
 
 # Influencer
 
-If you are a DeFi or Crypto influencer and would like to collaborate with us at DxSale and become part of the Dx Ecosystem - please contact one of the team members from the following section:
+If you are a DeFi or Crypto influencer and would like to collaborate with us at [DxSale](https://dx.app/?ref=raphaeldx\&chain=BNB) and become part of the Dx Ecosystem - please contact one of the team members from the following section:
 
 
 
