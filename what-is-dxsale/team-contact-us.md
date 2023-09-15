@@ -20,10 +20,7 @@ If you are a project seeking to launch on DxSale or require assistance in utiliz
 
 ### DxSale Team
 
-<mark style="color:orange;">**Krystal - Sales Lead and Business Dev**</mark>
 
-* &#x20;[https://t.me/Kryxtalz](https://t.me/Kryxtalz)
-* Angela@dxsale.network
 
 
 
