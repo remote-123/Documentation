@@ -23,3 +23,48 @@ Head to [dx.app](https://dx.app)
 <figure><img src="../.gitbook/assets/image (4) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (6) (3).png" alt=""><figcaption></figcaption></figure>
+
+
+
+### Sharing referral codes
+
+> You can share your code via URL which is an easier way to ensure that the client uses your code without having to think about it.\
+>
+>
+> For full list of url's please see below. Please change ref=raphaeldx to your own code ref=\_\_\_\_\_\_\_
+>
+> https://dx.app/?ref=raphaeldx\&chain=BNB
+>
+> https://dx.app/dxlocktoken?ref=raphaeldx\&chain=BNB
+>
+> https://dx.app/dxlocklp?ref=raphaeldx\&chain=BNB
+>
+> https://dx.app/dxmint?ref=raphaeldx\&chain=BNB
+>
+> https://dx.app/presalecreate?ref=raphaeldx\&chain=BNB
+>
+> https://dx.app/faircreate?ref=raphaeldx\&chain=BNB
+>
+> https://dx.app/overflowcreate?ref=raphaeldx\&chain=BNB\
+> \
+>
+
+{% hint style="warning" %}
+Please ensure that you make your code for every network, so no matter which network the client is using , they always have your code&#x20;
+{% endhint %}
+
+## Claiming Referrals
+
+Your rewards will automatically show up on your wallet and can be tracked by the referral page as shown below:
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+With the DxSale's referral system, you do not have to press any buttons to claim your native coins or tokens that you have earned from referring. It will automatically be on your wallet.\
+\
+
+
+
+
+{% hint style="info" %}
+If you are a special business partner, there is a claim button that you need to click to claim your tokens. Please see the DxSale Partners section
+{% endhint %}
