@@ -92,7 +92,9 @@ If you are a project seeking to launch on DxSale or require assistance in utiliz
 
 * [https://t.me/RizmoGa](https://t.me/RizmoGa)
 
+<mark style="color:orange;">**Lore - Community Moderator and Spanish Community Expert**</mark>
 
+* [https://t.me/Lorenilla8](https://t.me/Lorenilla8)
 
 For partnership requests, we kindly ask that you contact our founders, namely Dennis, Hash, and Raphael. Please ensure all emails are copied to receive the quickest response. \
 \
