@@ -42,7 +42,7 @@ If you are a call channel on telegram or on discord and would like to collaborat
 
 Add the [@dxtelegrambot](https://t.me/DXTelegrambot) on your members list
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 
 
@@ -50,7 +50,7 @@ Add the [@dxtelegrambot](https://t.me/DXTelegrambot) on your members list
 
 Add the bot onto your administration list.
 
-![](<../../.gitbook/assets/image (2).png>)![](<../../.gitbook/assets/image (3).png>)![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)![](<../../.gitbook/assets/image (3) (1).png>)![](<../../.gitbook/assets/image (4) (1).png>)
 
 
 
@@ -58,17 +58,17 @@ Add the bot onto your administration list.
 
 On the group chat, write " /start " without the quotations as follows and hit Enter.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 Click "Register" , followed by "Use Telegram username"
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
 \
 **Step 4**\
 Once registered, you can now Subscribe to each of the updates. It's best to subscribe to each of them and add your own unique referral code to each of the subscriptions.
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (1).png>)
 
 
 
@@ -76,7 +76,7 @@ Once registered, you can now Subscribe to each of the updates. It's best to subs
 
 Activate and update link. For example, for the Liquidity Lock - you want to add your own code with the liquidity lock page as follows:
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (1).png>)
 
 
 

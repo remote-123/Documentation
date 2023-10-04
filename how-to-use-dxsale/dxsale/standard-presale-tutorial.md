@@ -96,7 +96,7 @@ Hard cap / Hard capacity means the maximum amount of tokens that you can raise d
 Hard cap cannot be more than twice the soft cap amount
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -190,7 +190,7 @@ The scheduling is an important step in the presale creation process. You must ch
 
 **Presale End Time**
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Liquidity Unlock Time**
 

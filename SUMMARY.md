@@ -38,6 +38,8 @@
   * [Dividend Token](how-to-use-dxsale/dxmint/dividend-token.md)
   * [Verifying Token on DxMint](how-to-use-dxsale/dxmint/verifying-token-on-dxmint.md)
 * [DxDrop](how-to-use-dxsale/dxdrop.md)
+* [Advertising](how-to-use-dxsale/advertising/README.md)
+  * [Dx Ads Banners](how-to-use-dxsale/advertising/dx-ads-banners.md)
 * [API](how-to-use-dxsale/api.md)
 * [Affiliate / Referral](how-to-use-dxsale/affiliate-referral.md)
 

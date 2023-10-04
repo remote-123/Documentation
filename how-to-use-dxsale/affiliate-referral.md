@@ -57,7 +57,7 @@ Please ensure that you make your code for every network, so no matter which netw
 
 Your rewards will automatically show up on your wallet and can be tracked by the referral page as shown below:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 With the DxSale's referral system, you do not have to press any buttons to claim your native coins or tokens that you have earned from referring. It will automatically be on your wallet.\
 \

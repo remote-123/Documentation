@@ -20,7 +20,7 @@ The following are the 7 commandments of DxSale that you must adhere to, to avoid
 
 This is the basic chart that you should follow while creating presale to understand what the possible issues might be during creating a presale.
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Timer Pop Up Error
 

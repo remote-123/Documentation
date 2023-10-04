@@ -181,7 +181,7 @@ The scheduling is an important step in the presale creation process. You must ch
 
 **Presale End Time**
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Liquidity Unlock Time**
 

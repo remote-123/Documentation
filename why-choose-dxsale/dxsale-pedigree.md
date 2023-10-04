@@ -28,7 +28,7 @@ The biggest launches in DeFi have all launched on DxSale
 
 [DxSale](https://dx.app/?ref=raphaeldx\&chain=BNB) has consistently reached users world wide without incentivizing click farming that other launchpads utilize. [DxSale](https://dx.app/?ref=raphaeldx\&chain=BNB) is the **ONLY** launchpad where clicking and visiting the website cannot be farmed and only to be used to browse and purchase tokens in a secure way without any proxies. [DxSale](https://dx.app/?ref=raphaeldx\&chain=BNB) is also the **ONLY** launchpad where it's completely smart contract dependent and not dependant on APIs from scan websites.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
