@@ -6,4 +6,4 @@ description: >-
 
 # Verifying Token on DxMint
 
-{% embed url="https://github.com/Dennis-DxSale/LiquidityGenerator" %}
+{% embed url="https://github.com/KennyDxsale/DxMintTokenVerification" %}
