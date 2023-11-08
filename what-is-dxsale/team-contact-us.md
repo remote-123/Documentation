@@ -61,10 +61,6 @@ If you are a project seeking to launch on DxSale or require assistance in utiliz
 
 
 
-<mark style="color:orange;">**Imongluis - Business Dev, Community Moderator Lead and Onboarding Lead**</mark>
-
-* [https://t.me/imongluis](https://t.me/imongluis)
-
 
 
 <mark style="color:orange;">**Cylvestre - Business Dev, Community Moderator Lead and Onboarding Lead**</mark>
@@ -73,11 +69,6 @@ If you are a project seeking to launch on DxSale or require assistance in utiliz
 * clyvestre@dxsale.network
 
 
-
-<mark style="color:orange;">**Isenose - Exec Assistant, Business Dev, Community Moderator Lead and Onboarding Lead**</mark>
-
-* [https://t.me/isenosehokage](https://t.me/isenosehokage)
-* isenose@dxsale.network
 
 
 
