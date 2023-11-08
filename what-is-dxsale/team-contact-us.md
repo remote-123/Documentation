@@ -87,6 +87,12 @@ If you are a project seeking to launch on DxSale or require assistance in utiliz
 
 * [https://t.me/Lorenilla8](https://t.me/Lorenilla8)
 
+Mel - Community Moderator
+
+* [https://t.me/lingthai](https://t.me/lingthai)
+
+
+
 For partnership requests, we kindly ask that you contact our founders, namely Dennis, Hash, and Raphael. Please ensure all emails are copied to receive the quickest response. \
 \
 <mark style="color:green;">**Dennis -**</mark> [<mark style="color:green;">**dennis@dxsale.network**</mark>](mailto:dennis@dxsale.network) \ <mark style="color:green;">**Hash -**</mark> [<mark style="color:green;">**hash@dxsale.network**</mark>](mailto:hash@dxsale.network) \ <mark style="color:green;">**Raphael -**</mark> [<mark style="color:green;">**raphael@dxsale.network**</mark>](mailto:raphael@dxsale.network)
