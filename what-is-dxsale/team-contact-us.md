@@ -47,11 +47,6 @@ If you are a project seeking to launch on DxSale or require assistance in utiliz
 
 
 
-<mark style="color:orange;">**Goosezy - Sales Lead and Business Dev**</mark>
-
-* [https://t.me/goosezy](https://t.me/goosezy)
-* goosezy@dxsale.network
-
 
 
 <mark style="color:orange;">**EscortScisor - Exec Assistant, Business Dev, Community Moderator Lead, and Onboarding Lead**</mark>
@@ -79,17 +74,32 @@ If you are a project seeking to launch on DxSale or require assistance in utiliz
 
 
 
-<mark style="color:orange;">**Riz - Sales Lead and Business Dev**</mark>
-
-* [https://t.me/RizmoGa](https://t.me/RizmoGa)
-
 <mark style="color:orange;">**Lore - Community Moderator and Spanish Community Expert**</mark>
 
 * [https://t.me/Lorenilla8](https://t.me/Lorenilla8)
 
-Mel - Community Moderator
+<mark style="color:orange;">**Mel - Community Moderator**</mark>
 
 * [https://t.me/lingthai](https://t.me/lingthai)
+
+
+
+<mark style="color:orange;">**Uf-Lim - Sales**</mark>&#x20;
+
+* [https://t.me/uflim](https://t.me/uflim)
+
+\
+<mark style="color:orange;">**GianLuca - Sales**</mark>
+
+* [https://t.me/gianlucarigobello](https://t.me/gianlucarigobello)
+
+
+
+<mark style="color:orange;">**Felicity - Sales**</mark>
+
+* [https://t.me/webb3\_02](https://t.me/webb3\_02)
+
+
 
 
 
