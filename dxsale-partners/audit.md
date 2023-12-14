@@ -27,4 +27,4 @@ Please click on one of the partners below and complete the form. Once completed 
 * [FusionTech](https://forms.gle/D7Jyt7WWd9t3Zuhh7)
 * [SecureWise](https://forms.gle/2Pp2ZpTJYEWzShVB9)
 * [VerifyFinance](https://verify.finance/)
-* [ExpeleLogos](https://bit.ly/expeleelogos)
+* [Expelee](https://t.me/Expelee)
