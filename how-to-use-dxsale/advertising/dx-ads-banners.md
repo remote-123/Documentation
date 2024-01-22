@@ -14,7 +14,7 @@ The two sizes that you can use are 728x90 for Regular and 1920x130 for Premium\
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>The above example shows two regular sized banners where DxAds are shown</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>The above example shows two regular sized banners where DxAds are shown</p></figcaption></figure>
 
 
 
@@ -22,18 +22,18 @@ The two sizes that you can use are 728x90 for Regular and 1920x130 for Premium\
 
 To book a banner, simply head over to Dx.app and hover on MyDx tab and click **My Promotions Create & View**
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once you have clicked My Promotions Create & View, proceed to click on "Book Ad" under Create Banner Ad card\
 
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Lastly, if you have a Coupon or a Referral Code, please enter for any discounts or free Ads. DxSale gives out coupons to select few during promotions 😁\
 \
@@ -41,7 +41,7 @@ Lastly, if you have a Coupon or a Referral Code, please enter for any discounts 
 Click Book banner followed by your wallet prompt for confirmation, in case you are not sure what Book Banner button looks like, please see below \
 
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>This is the Book Banner Button 😆</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>This is the Book Banner Button 😆</p></figcaption></figure>
 
 
 

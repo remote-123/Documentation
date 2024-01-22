@@ -12,6 +12,8 @@ Please click the subpages to learn more about each of the different DxSale presa
 
 
 
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Standard Presale Tutorial</td><td></td><td><a href="standard-presale-tutorial.md">standard-presale-tutorial.md</a></td></tr><tr><td></td><td>Fairlaunch Tutorial</td><td></td><td><a href="fairlaunch-tutorial.md">fairlaunch-tutorial.md</a></td></tr><tr><td></td><td>OverFlow Tutorial</td><td></td><td><a href="overflow-tutorial.md">overflow-tutorial.md</a></td></tr><tr><td>Private Sale Tutorial</td><td></td><td></td><td></td></tr></tbody></table>
+
 ### How to navigate to DxSale Presale <a href="#how-to-navigate-to-dxsale-presale" id="how-to-navigate-to-dxsale-presale"></a>
 
 There are few ways to navigate to [DxSale](https://dx.app/dxsale?ref=raphaeldx\&chain=BNB) presales. If you would like to create a presale please see the different ways below:
