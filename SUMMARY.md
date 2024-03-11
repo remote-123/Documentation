@@ -14,7 +14,7 @@
 * [Dx Marketing and Incubation](why-choose-dxsale/dx-marketing-and-incubation.md)
 * [Service Fees](why-choose-dxsale/service-fees.md)
 
-## 🛠 How to use DxSale
+## 🛠️ How to use DxSale
 
 * [Read me to start](how-to-use-dxsale/read-me-to-start.md)
 * [Connecting & Navigating](how-to-use-dxsale/connecting-and-navigating.md)

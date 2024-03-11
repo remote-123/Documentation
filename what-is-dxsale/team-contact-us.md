@@ -35,15 +35,10 @@ If you are a project seeking to launch on DxSale or require assistance in utiliz
 
 * [https://t.me/Micanne\_s](https://t.me/Micanne\_s)
 * [https://t.me/Micannes](https://t.me/Micannes)
-* [https://t.me/Sophie\_dxsale](https://t.me/Sophie\_dxsale)
+* [https://t.me/sonia663](https://t.me/sonia663)
 * micanne@dxsale.network
 
 
-
-<mark style="color:orange;">**Kene - Sales Lead and Business Dev**</mark>
-
-* [https://t.me/ThisisKay](https://t.me/ThisisKay)
-* kene@dxsale.network
 
 
 
@@ -87,17 +82,6 @@ If you are a project seeking to launch on DxSale or require assistance in utiliz
 <mark style="color:orange;">**Uf-Lim - Sales**</mark>&#x20;
 
 * [https://t.me/uflim](https://t.me/uflim)
-
-\
-<mark style="color:orange;">**GianLuca - Sales**</mark>
-
-* [https://t.me/gianlucarigobello](https://t.me/gianlucarigobello)
-
-
-
-<mark style="color:orange;">**Felicity - Sales**</mark>
-
-* [https://t.me/webb3\_02](https://t.me/webb3\_02)
 
 
 
