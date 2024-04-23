@@ -79,9 +79,9 @@ If you are a project seeking to launch on DxSale or require assistance in utiliz
 
 
 
-<mark style="color:orange;">**Uf-Lim - Sales**</mark>&#x20;
+<mark style="color:orange;">**Lim - Sales**</mark>&#x20;
 
-* [https://t.me/uflim](https://t.me/uflim)
+* [https://t.me/limyth](https://t.me/limyth)
 
 
 
