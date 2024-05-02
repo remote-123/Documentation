@@ -44,7 +44,7 @@ Once you get to Create your Presale, you are welcomed by couple of forms as show
 
 **Start with a Template**
 
-This is an automatic Presale Information fill up system by our dapp! You can set your information here as per your hard cap! You need to click on Low cap Gem/Mid raise/Long term raise. &#x20;
+This is an automatic Presale Information fill up system by our dapp. You can set your information here as per your hard cap. You need to click on Low cap Gem/Mid raise/Long term raise. &#x20;
 
 **Or Create Your Own**
 
@@ -160,7 +160,7 @@ This section is not enabled during this stage of presale creation and only avail
 
 **Affiliate Earning**
 
-Empower your project with our affiliate program! Activate it after setting up creating your presale pool! Participants reap the benefits after the presale wraps up. Don't miss out on maximizing your project's potential!
+Empower your project with our affiliate program! Activate it after setting up creating your presale pool. Participants reap the benefits after the presale wraps up. Don't miss out on maximizing your project's potential.
 
 <figure><img src="../../.gitbook/assets/614c99cf4f23707154a37bf7_how-to-start-affiliate-marketing-1.png" alt=""><figcaption></figcaption></figure>
 
@@ -192,7 +192,7 @@ Enabling white list gives you the ability to sell your tokens at presale to a se
 
 **Review and Submit**
 
-Review your presale and submit by clicking Start Presale and clicking confirm MetaMask to confirm transaction
+Review your presale and submit by clicking Start Presale and clicking confirm MetaMask to confirm transaction.
 
 <figure><img src="../../.gitbook/assets/dx9.jpg" alt=""><figcaption></figcaption></figure>
 
