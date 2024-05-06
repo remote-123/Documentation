@@ -16,14 +16,21 @@ The following are the 7 commandments of DxSale that you must adhere to, to avoid
 * I did NOT add Tokens to the DEX already.
 {% endhint %}
 
-Once you have understood the OverFlow presale flow, please move onto Token Info section and start creating your very own OverFlow!\
+Once you understand how the OverFlow presale works, please proceed to create your own OverFlow!
 
+Please go to dx.app and click on the "Create" button, then click on the "Create Your IDO" button.
 
-**Token Info**
+<figure><img src="../../.gitbook/assets/overflow 1.png" alt=""><figcaption></figcaption></figure>
 
-Copy paste your token address on the first step to get started.
+In Step one, you need to select the sale type as "Overflow." To do this, below "Overflow," there is a "Select" button; click on that.
 
-<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/overflow 2.png" alt=""><figcaption></figcaption></figure>
+
+### **Token Info**
+
+Copy and paste the token contract address into the field.
+
+<figure><img src="../../.gitbook/assets/overflow 3.png" alt=""><figcaption></figcaption></figure>
 
 In the Token Info section, you will be asked to provide OverFlow Amount and Listing Amount for the Overflow presale. Ensure the OverFlow Amount and Listing Amount is not more than the Total Supply. It is recommended that you allocate as much as possible for the Overflow Presale. Click Next When Ready.
 
