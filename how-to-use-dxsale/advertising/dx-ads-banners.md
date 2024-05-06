@@ -22,7 +22,7 @@ The two sizes that you can use are 728x90 for Regular and 1920x130 for Premium\
 
 To book a banner, simply head over to Dx.app and hover on MyDx tab and click **My Promotions Create & View**
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once you have clicked My Promotions Create & View, proceed to click on "Book Ad" under Create Banner Ad card\
 

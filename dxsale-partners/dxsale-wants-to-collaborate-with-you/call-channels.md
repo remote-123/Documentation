@@ -42,7 +42,7 @@ If you are a call channel on telegram or on discord and would like to collaborat
 
 Add the [@dxtelegrambot](https://t.me/DXTelegrambot) on your members list
 
-![](<../../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png>)
 
 
 

@@ -36,7 +36,7 @@ Once you click Create Private Sale, you will be greeted with the following steps
 
 Copy paste your token address on the first step to get started.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Once you have entered the token you will see your token is recognized by the DxSale UI. You can now proceed to enter Soft Cap, hard cap, minimum/maximum contribution, private Sale rate, and lastly the vest settings for your liquidity that you raise, as well as the tokens that you give out.**\
 \

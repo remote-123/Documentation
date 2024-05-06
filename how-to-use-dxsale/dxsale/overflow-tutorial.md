@@ -82,7 +82,7 @@ The liquidity must be more than 51%.
 
 In Token Distribution section you will see a diagram in percentage format! It will show how much tokens for Presale, how much tokens for Liquidity, how much tokens for Platform and how much tokens will be unlocked and burned!
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **Overflow Timings & Liquidity Unlock Time**
 
@@ -110,7 +110,7 @@ Once you upload your image you need to add social links of your projects such as
 
 This section is not enabled during this stage of presale creation and only available after you have created the presale listing.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Affiliate Earning**
 
@@ -162,6 +162,8 @@ Liquidity Unlock Time must be minimum of 1 month from presale end time. This ens
 
 **Review and Submit**
 
-Review your presale and submit by clicking Start Presale and clicking confirm metamask to confirm transaction
+Review your presale and submit by clicking Start Presale and clicking confirm in your wallet to confirm transaction. Sale Creation fee is 200$ in native token and after your sale ends successfully you have to pay either 4% of raised amount or 2% of raised amount + 2% of sold token.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/submit.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
