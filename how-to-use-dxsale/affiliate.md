@@ -15,27 +15,37 @@ You can find your sale from "My dashboard" section.
 
 <figure><img src="../.gitbook/assets/dxaffililiate1.png" alt=""><figcaption></figcaption></figure>
 
+
+
 Select your sale from "_My Sales_" sections and then click on "_Manage_" options.
 
 <figure><img src="../.gitbook/assets/dxaffililiate2 (2).png" alt=""><figcaption></figcaption></figure>
 
-You can see your "Affiliate Earning" options on your "Manage Presale" sections under "Site Settings" option. For "Affiliate Earning" you need to enable Affiliate Earning feature.
+
+
+You can see your "_Affiliate Earning_" options on your "_Manage Presale_" sections under "_Site Settings_" option. For "Affiliate Earning" you need to enable Affiliate Earning feature.
 
 <figure><img src="../.gitbook/assets/dxaffililiate3 (1).png" alt=""><figcaption></figcaption></figure>
 
-You can choose your Affiliate Percentage from 1% to 10%. Select your desired one then click on Enable option.&#x20;
+
+
+You can set your Affiliate Percentage from minimum 1% to maximum 10%. Select your desired one then click on "_Enable_" option.&#x20;
 
 <figure><img src="../.gitbook/assets/dxaffiliate6.jpg" alt=""><figcaption></figcaption></figure>
 
-&#x20;You need to confirm it on the blockchain as well.
+&#x20;You need to confirm it through a MetaMask transaction.
 
 <figure><img src="../.gitbook/assets/dxaffililiate7.png" alt=""><figcaption></figcaption></figure>
+
+
 
 Your Affiliate option will be enabled instantly and from now Referrers will get commission from each contribution they bring.
 
 <figure><img src="../.gitbook/assets/dxaffililiate10.png" alt=""><figcaption></figcaption></figure>
 
-For the Affiliate (Referral) link you need to Click on your view sale page.
+
+
+**For the Affiliate (Referral) link you need to Click on your view sale page.**
 
 <figure><img src="../.gitbook/assets/dxaffililiate11.png" alt=""><figcaption></figcaption></figure>
 
