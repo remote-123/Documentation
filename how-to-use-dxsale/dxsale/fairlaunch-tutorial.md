@@ -20,8 +20,12 @@ The following are the 7 commandments of DxSale that you must adhere to, to avoid
 * I did NOT add Tokens to the DEX already.
 {% endhint %}
 
-Once you have understood the Fairlaunch flow, please move onto the Token Info section to start creating your very own Fairlaunch!\
+Once you have understood the Fairlaunch flow, please move onto the Token Info section to start creating your very own Fairlaunch!
 
+\
+**Click on Fairlaunch**
+
+<figure><img src="../../.gitbook/assets/dxfair1.png" alt=""><figcaption></figcaption></figure>
 
 **Token Info**
 

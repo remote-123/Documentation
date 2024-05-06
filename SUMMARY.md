@@ -42,6 +42,7 @@
 * [Advertising](how-to-use-dxsale/advertising/README.md)
   * [Dx Ads Banners](how-to-use-dxsale/advertising/dx-ads-banners.md)
 * [API](how-to-use-dxsale/api.md)
+* [Affiliate](how-to-use-dxsale/affiliate.md)
 * [Affiliate / Referral](how-to-use-dxsale/affiliate-referral.md)
 
 ## 🥂 DxSale Partners
