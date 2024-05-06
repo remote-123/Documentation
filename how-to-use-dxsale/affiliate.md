@@ -7,17 +7,19 @@ description: >-
 
 # Affiliate
 
-Follow below steps to enable Affiliate on your sale.
+**Follow below steps to enable Affiliate on your sale.**
 
-Once you create a sale with us you need to go to your sale page to enable Affiliate. You can Find your sale from My dashboard section.
+Once you create a sale with us you need to go to your sale page to enable Affiliate.&#x20;
+
+You can find your sale from "My dashboard" section.
 
 <figure><img src="../.gitbook/assets/dxaffililiate1.png" alt=""><figcaption></figcaption></figure>
 
-Select your sale from "My Sales" sections and then click on "Manage" options.
+Select your sale from "_My Sales_" sections and then click on "_Manage_" options.
 
 <figure><img src="../.gitbook/assets/dxaffililiate2 (2).png" alt=""><figcaption></figcaption></figure>
 
-You can see your "Affiliate Earning" options on your "Manage Presale" sections under "Site Settings" option. For "Affiliate Earning" you need to enable Affiliate feature.
+You can see your "Affiliate Earning" options on your "Manage Presale" sections under "Site Settings" option. For "Affiliate Earning" you need to enable Affiliate Earning feature.
 
 <figure><img src="../.gitbook/assets/dxaffililiate3 (1).png" alt=""><figcaption></figcaption></figure>
 
