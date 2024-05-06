@@ -42,7 +42,7 @@ If you are a call channel on telegram or on discord and would like to collaborat
 
 Add the [@dxtelegrambot](https://t.me/DXTelegrambot) on your members list
 
-![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
 
 
 
@@ -50,7 +50,7 @@ Add the [@dxtelegrambot](https://t.me/DXTelegrambot) on your members list
 
 Add the bot onto your administration list.
 
-![](<../../.gitbook/assets/image (2) (1) (1).png>)![](<../../.gitbook/assets/image (3) (1) (1).png>)![](<../../.gitbook/assets/image (4) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)![](<../../.gitbook/assets/image (3) (1) (1).png>)![](<../../.gitbook/assets/image (4) (1) (1).png>)
 
 
 

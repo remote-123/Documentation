@@ -13,7 +13,7 @@ Some of the features such as Vesting and White listing can be enabled and used a
 
 This is the flow for DxSale's Private Sale
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 The following are the 6 commandments of DxSale that you must adhere to, to avoid issues and to have a smooth launch
@@ -36,7 +36,7 @@ Once you click Create Private Sale, you will be greeted with the following steps
 
 Copy paste your token address on the first step to get started.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Once you have entered the token you will see your token is recognized by the DxSale UI. You can now proceed to enter Soft Cap, hard cap, minimum/maximum contribution, private Sale rate, and lastly the vest settings for your liquidity that you raise, as well as the tokens that you give out.**\
 \
