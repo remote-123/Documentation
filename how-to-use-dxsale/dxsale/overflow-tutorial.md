@@ -52,10 +52,6 @@ This is an automatic Presale Information fill up system by our dapp. You can set
 
 Soft cap / Soft capacity means the minimum amount of tokens that you will need to raise in order to consider the crowdsale/presale a success. Raising less than soft cap means you have failed the presale raise and the funds will automatically be back to the presale contributors and the custom token will be back to the overflow creator.
 
-{% hint style="warning" %}
-Liquidity % going to the DEX must be at least 51%&#x20;
-{% endhint %}
-
 **Minimum and Maximum Contribution amount**
 
 Minimum and maximum contribution amount is the range at which a buyer can fund your token during the overflow. If the contribution is too high, the UI will automatically block the buyer. If the contribution is too low, the UI will automatically block the buyer.
@@ -74,7 +70,9 @@ Minimum contribution cannot be 0, Maximum contribution cannot be lower than mini
 
 This is the percentage of collected funds which gets send to the DEX on completion. The DEX section is where the liquidity will be added.
 
-The liquidity must be more than 51%.
+{% hint style="warning" %}
+Liquidity % going to the DEX must be at least 51%&#x20;
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/dx4.png" alt=""><figcaption></figcaption></figure>
 
@@ -127,16 +125,6 @@ I buy 10 BNB, you get 1 BNB affiliate.
 The sale now has 9 BNB raised but I get tokens for 10 BNB (all 100), meaning whoever buys the remaining 1 BNB now needs the extra tokens to be able to also claim.
 
 <figure><img src="../../.gitbook/assets/614c99cf4f23707154a37bf7_how-to-start-affiliate-marketing-1.png" alt=""><figcaption></figcaption></figure>
-
-
-
-**Vested Claim**
-
-This feature must be enabled before Finalizing a presale after it’s successful! If you would like to use this feature, ensure you use this before clicking Finalize on your presale!
-
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-Vested Claim means limiting your presale buyers / contributors from getting the tokens they have bought during presale all at once. You can customize the amount of tokens they can get and when. This can be used to prevent instant dumping that can happen when your token has made it to the DEX. This feature is accessible after the presale has already been listed.
 
 &#x20;
 
