@@ -124,8 +124,6 @@ In Token Distribution section you will see a diagram in percentage format! It wi
 
 Fairlaunch Timing is an important step in the fairlaunch creation process. You must choose the timings carefully to ensure that your fairlaunch is going smoothly and also to give you ample timing to enable features that you want to enable or to create hype for your crowd funding. Liquidity Unlock Time must be minimum of 1 month from fairlaunch end time. This ensures that the liquidity pool token which acts like a “key” to the liquidity pool is safely locked. This makes it harder for bad players to pull liquidity from Dex and also ensures extra safety measures to your community.
 
-
-
 <figure><img src="../../.gitbook/assets/fairlaunch info6.png" alt=""><figcaption></figcaption></figure>
 
 **Project Information steps**
@@ -137,7 +135,7 @@ The project information step page looks like this where you can easily upload yo
 It is highly recommended that you fill out all of these to give your fairlaunch contributors and community every possible information about your project
 {% endhint %}
 
-<figure><img src="https://docs.dxsale.network/~gitbook/image?url=https%3A%2F%2F3286775751-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MTT8AZhxr8LCTIIdY3-%252Fuploads%252FD0k2hVh6LqU8Xbog4uxC%252Fdx6.png%3Falt%3Dmedia%26token%3Dd5535504-089e-4285-91c3-89dd3076f51c&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=201203759d26ee37fc45dcf3ae6784f5a243a1150398ecb2a090c3727572a7f4" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 To fill out the logo and banner, you need to click on Browse and upload an image with .png, .jpg, or .gif from your Device.
 
@@ -159,7 +157,7 @@ Empower your project with our affiliate program! Activate it after setting up cr
 
 This feature must be enabled before Finalizing a fairlaunch after it’s successful! If you would like to use this feature, ensure you use this before clicking Finalize on your fairlaunch!
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Vested Claim means limiting your fairlaunch buyers / contributors from getting the tokens they have bought during fairlaunch all at once. You can customize the amount of tokens they can get and when. This can be used to prevent instant dumping that can happen when your token has made it to the DEX. This feature is accessible after the fairlaunch has already been listed.
 
@@ -167,7 +165,7 @@ Vested Claim means limiting your fairlaunch buyers / contributors from getting t
 
 It is highly recommended to enable this and use this feature before fairlaunch starts!
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Enabling whitelist gives you the ability to sell your tokens at fairlaunch to a set list of addresses instead of letting all of public to purchase. This is great for KYC control, private sale, or even as a marketing tactic. This feature ensures that certain buyers get priority. This feature can be disabled and re-enabled any time during a live fairlaunch.
 

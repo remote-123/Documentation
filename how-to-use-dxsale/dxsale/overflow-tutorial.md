@@ -80,7 +80,7 @@ Liquidity % going to the DEX must be at least 51%&#x20;
 
 In Token Distribution section you will see a diagram in percentage format! It will show how much tokens for Presale, how much tokens for Liquidity, how much tokens for Platform and how much tokens will be unlocked and burned!
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Overflow Timings & Liquidity Unlock Time**
 
@@ -108,7 +108,7 @@ Once you upload your image you need to add social links of your projects such as
 
 This section is not enabled during this stage of presale creation and only available after you have created the presale listing.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Affiliate Earning**
 
@@ -154,4 +154,4 @@ Review your presale and submit by clicking Start Presale and clicking confirm in
 
 <figure><img src="../../.gitbook/assets/submit.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
