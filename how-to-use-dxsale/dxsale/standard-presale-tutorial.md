@@ -24,6 +24,8 @@ Once you understand how the presale flow works please see the tutorial steps bel
 
 **Creating the presale steps**
 
+<figure><img src="../../.gitbook/assets/dxsale create ido.png" alt=""><figcaption></figcaption></figure>
+
 Once you click Create your IDO, you will be greeted with the following steps and then select Presale.
 
 <figure><img src="../../.gitbook/assets/dx1.png" alt=""><figcaption></figcaption></figure>
