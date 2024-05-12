@@ -22,39 +22,40 @@ The following are the 7 commandments of DxSale that you must adhere to, to avoid
 
 Once you have understood the Fairlaunch flow, please move onto the Token Info section to start creating your very own Fairlaunch!
 
-\
-**Click on Fairlaunch**
+**Creating the FairLaunch steps**
+
+<figure><img src="../../.gitbook/assets/dxsale create ido.png" alt=""><figcaption></figcaption></figure>
+
+Once you click Create your IDO, you will be greeted with the following steps and then select Fairlaunch.
 
 <figure><img src="../../.gitbook/assets/dxfair1.png" alt=""><figcaption></figcaption></figure>
 
 **Token Info**
 
-Copy paste your token address on the first step to get started.
+Copy paste your token address into the second section or you can import your DxMinted token.
 
-<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fairlaunch token info.png" alt=""><figcaption></figcaption></figure>
 
-In the Token Info section, you will be asked to provide FairLaunch Amount and Listing Amount for the FairLaunch presale. Ensure the FairLaunch Amount and Listing Amount is not more than the Total Supply. It is recommended that you allocate as much as possible for the FairLaunch Presale. Click Next When Ready.
+**Fairlaunch Information**
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+Once you get to Create your **Fairlaunch**, you are welcomed by couple of forms as shown below. Do not worry, we explain each of the items right below the screenshot.
 
-**FairLaunch Information Section**
+<figure><img src="../../.gitbook/assets/fairlaunch info3.png" alt=""><figcaption></figcaption></figure>
 
-In this section you must determine key information regarding your Fairlaunch such as the minimum amount required for your FairLaunch to be considered a successful raise.
+**Start with a Template**
 
-{% hint style="warning" %}
-Liquidity % going to the DEX must be at least 51%&#x20;
-{% endhint %}
+This is an automatic Fairlaunch information fill up system by our dapp. You can set your information here as per your soft cap. You need to click on Low cap Gem/Mid raise/Long term raise.
 
-<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+**Or Create Your Own**
 
-**Presale Rate**
+**Fairlaunch Rate**
 
-Presale Rate is the rate at which users get your token when they pay with native token during presale/crowdfunding/Initial Coin Offering/ Initial Dex offering
+fairlaunch/Presale rate is the rate at which users get your token when they pay with native token during presale/crowdfunding/Initial Coin Offering/ Initial Dex offering
 
 
 
 {% hint style="info" %}
-Presale Rate must be equal or more than the listing rate
+Presale/Fairlaunch Rate must be equal or more than the listing rate
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (15) (2).png" alt=""><figcaption></figcaption></figure>
@@ -65,7 +66,7 @@ Presale Rate must be equal or more than the listing rate
 
 **Listing Rate**
 
-Listing Rate is the rate at which users get your token when they purchase at the DEX. This listing rate only applies when the Presale ends and the token and funds get added to the liquidity pool of the Dex (DxSale creates an exchange pair for you automatically - no coding or manually adding required!).
+Listing Rate is the rate at which users get your token when they purchase at the DEX. This listing rate only applies when the fairlaunch ends and the token and funds get added to the liquidity pool of the Dex (DxSale creates an exchange pair for you automatically - no coding or manually adding required!).
 
 {% hint style="info" %}
 Once the funds are added, the market supply/demand for your token determines the price at which users can buy/sell at the DEX. If your token is bought heavily after listing - the price of the token will go up. This means that you will get less tokens for the same amount of native token. If the token is heavily sold after listing, the price of the token will go down. This means that you will get more tokens for the same amount of native token.&#x20;
@@ -74,7 +75,7 @@ Once the funds are added, the market supply/demand for your token determines the
 
 
 {% hint style="info" %}
-Listing Rate should be equal or less than the presale rate
+Listing Rate should be equal or less than the fairlaunch rate
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (9) (3) (1).png" alt=""><figcaption></figcaption></figure>
@@ -83,13 +84,11 @@ Listing Rate should be equal or less than the presale rate
 
 **Soft Cap**
 
-Soft cap / Soft capacity means the minimum amount of tokens that you will need to raise in order to consider the crowdsale/presale a success. Raising less than soft cap means you have failed the presale raise and the funds will automatically be back to the presale contributors and the custom token will be back to the presale creator.
+Soft cap / Soft capacity means the minimum amount of tokens that you will need to raise in order to consider the crowdsale/presale a success. Raising less than soft cap means you have failed the fairlaunch raise and the funds will automatically be back to the fairlaunch contributors and the custom token will be back to the fairlaunch creator.
 
 {% hint style="info" %}
-Soft cap cannot be less than 51% of hard cap amount
+There is no hard cap feature in a fairlaunch that means you can raise unlimited.
 {% endhint %}
-
-<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -97,10 +96,10 @@ Soft cap cannot be less than 51% of hard cap amount
 
 **Minimum and Maximum Contribution amount**
 
-Minimum and maximum contribution amount is the range at which a buyer can fund your token during crowdsale/presale. If the contribution is too high, the UI will automatically block the buyer. If the contribution is too low, the UI will automatically block the buyer.
+Minimum and maximum contribution amount is the range at which a buyer can fund your token during fairlaunch/presale. If the contribution is too high, the UI will automatically block the buyer. If the contribution is too low, the UI will automatically block the buyer.
 
 {% hint style="info" %}
-This is a good tool to stop any bulk buyers who can easily dump tokens at exchange post presale&#x20;
+This is a good tool to stop any bulk buyers who can easily dump tokens at exchange post presale/fairlaunch&#x20;
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (61) (1).png" alt=""><figcaption></figcaption></figure>
@@ -109,92 +108,74 @@ This is a good tool to stop any bulk buyers who can easily dump tokens at exchan
 Minimum contribution cannot be 0, Maximum contribution cannot be lower than minimum and higher than Hardcap
 {% endhint %}
 
+**Liquidity and DEX**
+
+This is the percentage of collected funds which gets send to the DEX on completion. The DEX section is where the liquidity will be added.
+
+<figure><img src="https://docs.dxsale.network/~gitbook/image?url=https%3A%2F%2F3286775751-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MTT8AZhxr8LCTIIdY3-%252Fuploads%252F1CcnupdONESfYxVSxDWH%252Fdx4.png%3Falt%3Dmedia%26token%3D136db37d-47f4-4a02-80a2-3566f65ca544&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=ea28312a8ae448322fdcd84a3ebd22e4189a07604e97789874556778bfafbbc6" alt=""><figcaption></figcaption></figure>
+
+&#x20;**Token Distribution**
+
+In Token Distribution section you will see a diagram in percentage format! It will show how much tokens for fairlaunch, how much tokens for Liquidity, how much tokens for Platform and how much tokens will be unlocked and burned!
+
+<figure><img src="../../.gitbook/assets/fairlaunch info5.png" alt=""><figcaption></figcaption></figure>
+
+**Fairlaunch Timings & Liquidity Unlock Time**
+
+Fairlaunch Timing is an important step in the fairlaunch creation process. You must choose the timings carefully to ensure that your fairlaunch is going smoothly and also to give you ample timing to enable features that you want to enable or to create hype for your crowd funding. Liquidity Unlock Time must be minimum of 1 month from fairlaunch end time. This ensures that the liquidity pool token which acts like a “key” to the liquidity pool is safely locked. This makes it harder for bad players to pull liquidity from Dex and also ensures extra safety measures to your community.
 
 
-&#x20;
+
+<figure><img src="../../.gitbook/assets/fairlaunch info6.png" alt=""><figcaption></figcaption></figure>
 
 **Project Information steps**
 
-The project information step page looks like this where you can easily upload your Logo, Banner , Website, social links (youtube, github, twitter, reddit etc.) as well as project description.
+\
+The project information step page looks like this where you can easily upload your Logo, Banner , Website, social links (youtube, github, X(twitter), discord, reddit etc.) as well as project description.
 
 {% hint style="info" %}
-It is highly recommended that you fill out all of these to give your presale contributors and community every possible information about your project
+It is highly recommended that you fill out all of these to give your fairlaunch contributors and community every possible information about your project
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://docs.dxsale.network/~gitbook/image?url=https%3A%2F%2F3286775751-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MTT8AZhxr8LCTIIdY3-%252Fuploads%252FD0k2hVh6LqU8Xbog4uxC%252Fdx6.png%3Falt%3Dmedia%26token%3Dd5535504-089e-4285-91c3-89dd3076f51c&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=201203759d26ee37fc45dcf3ae6784f5a243a1150398ecb2a090c3727572a7f4" alt=""><figcaption></figcaption></figure>
 
-To fill out the logo and banner link, you must have a link that ends with .png, .jpg, or .gif. You can upload your image/gif on a website such as [![](https://s.imgur.com/images/favicon-16x16.png)Imgur: The magic of the Internet](http://imgur.com/) in case you do not have a link that does not end with the image or gif extensions.
+To fill out the logo and banner, you need to click on Browse and upload an image with .png, .jpg, or .gif from your Device.
 
-Once you upload your image to Imgur, copy the Direct Link as shown below.
-
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
-
-Paste the direct link of the image or image address on to the logo link or banner link section as shown below
-
-<figure><img src="../../.gitbook/assets/image (16) (2).png" alt=""><figcaption></figcaption></figure>
+Once you upload your image you need to add social links of your projects such as: Website, X(Twitter), Telegram. After submitting logos and socials its time to add a good description for your project. For reference you can see your fairlaunch Card Preview options at the right side of your project information section.
 
 **More Features section**
 
-This section is not enabled during this stage of presale creation and only available after you have created the presale listing.
+This section is not enabled during this stage of fairlaunch creation and only available after you have created the fairlaunch  listing.
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://docs.dxsale.network/~gitbook/image?url=https%3A%2F%2F3286775751-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MTT8AZhxr8LCTIIdY3-%252Fuploads%252FgODwBEUt5POlzlEr7ANH%252Fdx7.png%3Falt%3Dmedia%26token%3Db255557d-04fb-430d-83d4-f09904bc5d70&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=dcf59c2098c173c8aab88015d34db5e5936f9e735ce2e344c81b0a7c705e3c6f" alt=""><figcaption></figcaption></figure>
 
-**Change Listing Pair**
+**Affiliate Earning**
 
-{% hint style="info" %}
-This feature must be enabled before Finalizing a presale after it’s successful! If you would like to use this feature, ensure you use this before clicking Finalize on your presale!
-{% endhint %}
+Empower your project with our affiliate program! Activate it after setting up creating your fairlaunch pool. Participants reap the benefits after the fairlaunch wraps up. Don't miss out on maximizing your project's potential.
 
-Changing listing pair means instead of listing your token with native coin such as ETH or BNB as liquidity, you can now use USDT or any other custom address as a listing pair. This is only available on DxSale and is a special feature that you can utilize to your token if you have custom needs or requirement. This feature is accessible after the presale as already been listed.
-
-&#x20;
+<figure><img src="https://docs.dxsale.network/~gitbook/image?url=https%3A%2F%2F3286775751-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MTT8AZhxr8LCTIIdY3-%252Fuploads%252FJVVrxuiZNS31eA0ICKAu%252F614c99cf4f23707154a37bf7_how-to-start-affiliate-marketing-1.png%3Falt%3Dmedia%26token%3D10bd4593-3705-4778-927e-c4425a0d2744&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=211622844d9738a9eefeb8728cd1bdf0b8a18e94324d749552784ddda817925a" alt=""><figcaption></figcaption></figure>
 
 **Vested Claim**
 
-This feature must be enabled before Finalizing a presale after it’s successful! If you would like to use this feature, ensure you use this before clicking Finalize on your presale!
+This feature must be enabled before Finalizing a fairlaunch after it’s successful! If you would like to use this feature, ensure you use this before clicking Finalize on your fairlaunch!
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://docs.dxsale.network/~gitbook/image?url=https%3A%2F%2F3286775751-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MTT8AZhxr8LCTIIdY3-%252Fuploads%252FqDaxwuUovM0c8PF4DWPI%252Fimage.png%3Falt%3Dmedia%26token%3D6134d62a-230b-4b0b-a5c6-490ad7fa3142&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=7173e24e7e881928899f942cd985d4f983dc9cc0549fb7a979d3eecdf6d2acf5" alt=""><figcaption></figcaption></figure>
 
-Vested Claim means limiting your presale buyers / contributors from getting the tokens they have bought during presale all at once. You can customize the amount of tokens they can get and when. This can be used to prevent instant dumping that can happen when your token has made it to the DEX. This feature is accessible after the presale has already been listed.
-
-&#x20;
-
-&#x20;
+Vested Claim means limiting your fairlaunch buyers / contributors from getting the tokens they have bought during fairlaunch all at once. You can customize the amount of tokens they can get and when. This can be used to prevent instant dumping that can happen when your token has made it to the DEX. This feature is accessible after the fairlaunch has already been listed.
 
 **Enabling Whitelist**
 
-{% hint style="info" %}
-It is highly recommended to enable this and use this feature before presale starts!
-{% endhint %}
+It is highly recommended to enable this and use this feature before fairlaunch starts!
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://docs.dxsale.network/~gitbook/image?url=https%3A%2F%2F3286775751-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MTT8AZhxr8LCTIIdY3-%252Fuploads%252FEOXCj7B4m68j04PmcWcs%252Fimage.png%3Falt%3Dmedia%26token%3D86bc901e-ed16-453e-9387-7a6928dbc5dd&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=be83594d0997f71a0be4e81867f6c1fb021afd496f985bdd6d036f445a57d368" alt=""><figcaption></figcaption></figure>
 
-Enabling white list gives you the ability to sell your tokens at presale to a set list of addresses instead of letting all of public to purchase. This is great for KYC control, private sale, or even as a marketing tactic. This feature ensures that certain buyers get priority. This feature can be disabled and re-enabled any time during a live presale.
-
-&#x20;
-
-&#x20;
-
-**Scheduling Presale Section**
-
-The scheduling is an important step in the presale creation process. You must choose the timings carefully to ensure that your presale creation is going smoothly and also to give you ample timing to enable features that you want to enable or to create hype for your crowd funding.
-
-**Presale Start Time**
-
-<figure><img src="../../.gitbook/assets/image (14) (3).png" alt=""><figcaption></figcaption></figure>
-
-**Presale End Time**
-
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-**Liquidity Unlock Time**
-
-Liquidity Unlock Time must be minimum of 1 month from presale end time. This ensures that the liquidity pool token which acts like a “key” to the liquidity pool is safely locked. This makes it harder for bad players to pull liquidity from Dex and also ensures extra safety measures to your community
-
-&#x20;
+Enabling whitelist gives you the ability to sell your tokens at fairlaunch to a set list of addresses instead of letting all of public to purchase. This is great for KYC control, private sale, or even as a marketing tactic. This feature ensures that certain buyers get priority. This feature can be disabled and re-enabled any time during a live fairlaunch.
 
 **Review and Submit**
 
-Review your presale and submit by clicking Start Presale and clicking confirm metamask to confirm transaction
+Review your fairlaunch and submit by clicking Create Fairlaunch and clicking confirm MetaMask to confirm transaction.
 
-<figure><img src="../../.gitbook/assets/image (9) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fairlaunch info7.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/fairlaunch info8.png" alt=""><figcaption></figcaption></figure>
+
