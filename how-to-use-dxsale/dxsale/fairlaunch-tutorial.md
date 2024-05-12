@@ -159,7 +159,11 @@ Empower your project with our affiliate program! Activate it after setting up cr
 
 This feature must be enabled before Finalizing a fairlaunch after it’s successful! If you would like to use this feature, ensure you use this before clicking Finalize on your fairlaunch!
 
+<div data-full-width="true">
+
 <figure><img src="https://docs.dxsale.network/~gitbook/image?url=https%3A%2F%2F3286775751-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MTT8AZhxr8LCTIIdY3-%252Fuploads%252FqDaxwuUovM0c8PF4DWPI%252Fimage.png%3Falt%3Dmedia%26token%3D6134d62a-230b-4b0b-a5c6-490ad7fa3142&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=7173e24e7e881928899f942cd985d4f983dc9cc0549fb7a979d3eecdf6d2acf5" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Vested Claim means limiting your fairlaunch buyers / contributors from getting the tokens they have bought during fairlaunch all at once. You can customize the amount of tokens they can get and when. This can be used to prevent instant dumping that can happen when your token has made it to the DEX. This feature is accessible after the fairlaunch has already been listed.
 
@@ -167,7 +171,11 @@ Vested Claim means limiting your fairlaunch buyers / contributors from getting t
 
 It is highly recommended to enable this and use this feature before fairlaunch starts!
 
+<div align="center">
+
 <figure><img src="https://docs.dxsale.network/~gitbook/image?url=https%3A%2F%2F3286775751-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MTT8AZhxr8LCTIIdY3-%252Fuploads%252FEOXCj7B4m68j04PmcWcs%252Fimage.png%3Falt%3Dmedia%26token%3D86bc901e-ed16-453e-9387-7a6928dbc5dd&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=be83594d0997f71a0be4e81867f6c1fb021afd496f985bdd6d036f445a57d368" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Enabling whitelist gives you the ability to sell your tokens at fairlaunch to a set list of addresses instead of letting all of public to purchase. This is great for KYC control, private sale, or even as a marketing tactic. This feature ensures that certain buyers get priority. This feature can be disabled and re-enabled any time during a live fairlaunch.
 
