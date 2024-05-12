@@ -28,19 +28,19 @@ In Step one, you need to select the sale type as "Overflow." To do this, below "
 
 ### **Token Info**
 
-Copy and paste the token contract address into the field.
+Copy paste your token address into the second section or you can import your DxMinted token.
 
-<figure><img src="../../.gitbook/assets/overflow 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fairlaunch token info.png" alt=""><figcaption></figcaption></figure>
 
 ### Overflow Information
 
-Once you get to Create your Overfow, you are welcomed by couple of forms as shown below. Do not worry, we explain each of the items right below the screenshot.
+Once you get to Create your Overflow, you are welcomed by couple of forms as shown below. Do not worry, we explain each of the items right below the screenshot.
 
 <figure><img src="../../.gitbook/assets/overflow 4.png" alt=""><figcaption></figcaption></figure>
 
 #### Start With A Template
 
-This is an automatic Presale Information fill up system by our dapp. You can set your information here as per your hard cap. You need to click on Low cap Gem/Mid raise/Long term raise.
+This is an automatic overflow Information fill up system by our dapp. You can set your information here as per your hard cap. You need to click on Low cap Gem/Mid raise/Long term raise.
 
 #### **Or Create Your Own**
 
@@ -48,9 +48,7 @@ This is an automatic Presale Information fill up system by our dapp. You can set
 
 **Listing Amount:** The amount you want to list on the DEX after the overflow ends.
 
-**Soft Cap**
-
-Soft cap / Soft capacity means the minimum amount of tokens that you will need to raise in order to consider the crowdsale/presale a success. Raising less than soft cap means you have failed the presale raise and the funds will automatically be back to the presale contributors and the custom token will be back to the overflow creator.
+**Soft Cap:** Soft cap / Soft capacity means the minimum amount of tokens that you will need to raise in order to consider the crowdsale/presale a success. Raising less than soft cap means you have failed the presale raise and the funds will automatically be back to the presale contributors and the custom token will be back to the overflow creator.
 
 **Minimum and Maximum Contribution amount**
 
@@ -100,7 +98,7 @@ It is highly recommended that you fill out all of these to give your presale con
 
 
 
-To fill out the logo and banner, you need to click on Browse and upload an image with .png, .jpg, or .gif from your Device.
+To fill out the logo and banner, you need to click on Browse and upload an image with .png, .jpg, or .gif from your Device.&#x20;
 
 Once you upload your image you need to add social links of your projects such as: Website, X(Twitter), Telegram. After submitting logos and socials its time to add a good description for your project. For reference you can see your Presale Card Preview options at the right side of your project information section.
 
@@ -126,11 +124,7 @@ The sale now has 9 BNB raised but I get tokens for 10 BNB (all 100), meaning who
 
 <figure><img src="../../.gitbook/assets/614c99cf4f23707154a37bf7_how-to-start-affiliate-marketing-1.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;
-
-&#x20;
-
-**Enabling Whitelist**
+&#x20;**Enabling Whitelist**
 
 {% hint style="info" %}
 It is highly recommended to enable this and use this feature before presale starts!
@@ -139,12 +133,6 @@ It is highly recommended to enable this and use this feature before presale star
 <figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 Enabling white list gives you the ability to sell your tokens at presale to a set list of addresses instead of letting all of public to purchase. This is great for KYC control, private sale, or even as a marketing tactic. This feature ensures that certain buyers get priority. This feature can be disabled and re-enabled any time during a live presale.
-
-
-
-**Liquidity Unlock Time**
-
-Liquidity Unlock Time must be minimum of 1 month from presale end time. This ensures that the liquidity pool token which acts like a “key” to the liquidity pool is safely locked. This makes it harder for bad players to pull liquidity from Dex and also ensures extra safety measures to your community
 
 &#x20;
 
