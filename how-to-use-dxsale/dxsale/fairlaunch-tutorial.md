@@ -153,7 +153,7 @@ This section is not enabled during this stage of fairlaunch creation and only av
 
 Empower your project with our affiliate program! Activate it after setting up creating your fairlaunch pool. Participants reap the benefits after the fairlaunch wraps up. Don't miss out on maximizing your project's potential.
 
-<figure><img src="https://docs.dxsale.network/~gitbook/image?url=https%3A%2F%2F3286775751-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MTT8AZhxr8LCTIIdY3-%252Fuploads%252FJVVrxuiZNS31eA0ICKAu%252F614c99cf4f23707154a37bf7_how-to-start-affiliate-marketing-1.png%3Falt%3Dmedia%26token%3D10bd4593-3705-4778-927e-c4425a0d2744&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=211622844d9738a9eefeb8728cd1bdf0b8a18e94324d749552784ddda817925a" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/614c99cf4f23707154a37bf7_how-to-start-affiliate-marketing-1.png" alt=""><figcaption></figcaption></figure>
 
 **Vested Claim**
 
