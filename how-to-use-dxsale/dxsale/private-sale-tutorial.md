@@ -132,12 +132,14 @@ The more you vest, the more confidence your investors get in your sale. If you v
 
 In Token Distribution section you will see a diagram in percentage format! It will show how much tokens for Presale, how much tokens for Liquidity, how much tokens for Platform and how much tokens will be unlocked and burned!
 
+<figure><img src="../../.gitbook/assets/private sale 4.png" alt=""><figcaption></figcaption></figure>
+
 #### Private Sale Timing
 
 Once you are ready, set your private sale start and end time. The start time should be a minimum of 10 minutes from your current time. The private sale end time can be as low as 10 minutes. However it is recommended that you start it 24 hours from now and end it after 1 hour in case of any issues.
 
-\
-\
+<figure><img src="../../.gitbook/assets/Private sale 9.png" alt=""><figcaption></figcaption></figure>
+
 **Project Information steps**
 
 The project information step page looks like this where you can easily upload your Logo, Banner , Website, social links (youtube, github, X(twitter), discord, reddit etc.) as well as project description.
