@@ -192,8 +192,8 @@ Enabling white list gives you the ability to sell your tokens at presale to a se
 
 Review your presale and submit by clicking Start Presale and clicking confirm in your wallet to confirm transaction. Sale Creation fee is 100$ in native token and after your sale ends successfully you have to pay either 4% of raised amount or 2% of raised amount + 2% of sold token.
 
-<figure><img src="../../.gitbook/assets/private sale 7 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/private sale create ss.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/private sale 8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/private sale metamask.png" alt=""><figcaption></figcaption></figure>
 
 Congratulation, You have successfully created private sale.
