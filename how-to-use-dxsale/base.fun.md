@@ -1,0 +1,59 @@
+---
+description: >-
+  You need less than $1 and just 1 click to create and launch a coin:
+  http://base.fun !
+---
+
+# Base.Fun
+
+Base fun prevents rug pulls by ensuring token safety and promoting fair launches with no presales or team allocations.
+
+
+
+Are you new to base.fun? Don't worry we are going to help you with each steps of using base fun.  At first you need to collect your wallet with [https://www.base.fun](https://www.base.fun/)&#x20;
+
+<figure><img src="../.gitbook/assets/1baseconn (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+Make sure you are on the BASE chain.
+
+{% hint style="info" %}
+Base.Fun is only based on BASE blockchain.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/2base (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+Once you connect your wallet with our base fun dapp then you are good to go for the next step "MAKE COIN". Click on make coin sections and input your token information.
+
+<figure><img src="../.gitbook/assets/3base (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+The Create a coin information step page looks like this where you can easily upload your token Name, Ticker, Description, Logo, X(Twitter), Telegram, Website and Youtube.&#x20;
+
+{% hint style="info" %}
+To fill out the logo you need to click on Browse and upload an image with .png, .jpg, or .gif from your Device.
+{% endhint %}
+
+
+
+<figure><img src="../.gitbook/assets/4base (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+If you put everything correctly on the "Create a coin" section then its time create history by clicking on "MAKE COIN" button. Click on Make Coin button and confirm it on the metamask.
+
+<figure><img src="../.gitbook/assets/5base (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+Bang on! Your created token is ready ton trade now.
+
+<figure><img src="../.gitbook/assets/6base (1).png" alt=""><figcaption></figcaption></figure>
