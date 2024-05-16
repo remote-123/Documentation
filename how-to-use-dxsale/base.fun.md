@@ -1,7 +1,7 @@
 ---
 description: >-
-  You need less than $1 and just 1 click to create and launch a coin on:
-  http://base.fun !
+  You need less than $1 and just 1 click to create and launch a coin on BASE
+  FUN!
 ---
 
 # Base.Fun
