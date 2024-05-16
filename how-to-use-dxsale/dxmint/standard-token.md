@@ -6,7 +6,7 @@ You must include all info except referral code before minting standard token
 
 Visit [dx.app](https://www.dx.app/) and click on 'Create', then select 'DxMint'.
 
-<figure><img src="../../.gitbook/assets/dxmint 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dxmint.png" alt=""><figcaption></figcaption></figure>
 
 Choose your network/chain carefully.
 
