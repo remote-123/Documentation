@@ -1,6 +1,6 @@
 ---
 description: >-
-  You need less than $1 and just 1 click to create and launch a coin:
+  You need less than $1 and just 1 click to create and launch a coin on:
   http://base.fun !
 ---
 
@@ -10,13 +10,15 @@ Base fun prevents rug pulls by ensuring token safety and promoting fair launches
 
 
 
-Are you new to base.fun? Don't worry we are going to help you with each steps of using base fun.  At first you need to collect your wallet with [https://www.base.fun](https://www.base.fun/)&#x20;
+Are you new to base.fun? Don't worry we are going to help you with each steps of using base fun.  At the beginning you need to collect your wallet with [https://www.base.fun](https://www.base.fun/) dapp.
 
 <figure><img src="../.gitbook/assets/1baseconn (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
-Make sure you are on the BASE chain.
+
+
+Make sure you are on the BASE chain/network.
 
 {% hint style="info" %}
 Base.Fun is only based on BASE blockchain.
@@ -26,7 +28,9 @@ Base.Fun is only based on BASE blockchain.
 
 
 
-Once you connect your wallet with our base fun dapp then you are good to go for the next step "MAKE COIN". Click on make coin sections and input your token information.
+
+
+Once you connect your wallet with our base fun dapp then you are good to go for the next step "**MAKE COIN**". Click on "MAKE COIN" sections and input your token information.
 
 <figure><img src="../.gitbook/assets/3base (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -34,13 +38,11 @@ Once you connect your wallet with our base fun dapp then you are good to go for 
 
 
 
-The Create a coin information step page looks like this where you can easily upload your token Name, Ticker, Description, Logo, X(Twitter), Telegram, Website and Youtube.&#x20;
+"Create a coin" information step page will be same as below. You can easily upload your token Name, Ticker, Description, Logo, X(Twitter), Telegram, Website and Youtube.&#x20;
 
 {% hint style="info" %}
 To fill out the logo you need to click on Browse and upload an image with .png, .jpg, or .gif from your Device.
 {% endhint %}
-
-
 
 <figure><img src="../.gitbook/assets/4base (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -54,6 +56,6 @@ If you put everything correctly on the "Create a coin" section then its time cre
 
 
 
-Bang on! Your created token is ready ton trade now.
+Bang on! Your created token is ready to trade now.
 
 <figure><img src="../.gitbook/assets/6base (1).png" alt=""><figcaption></figcaption></figure>
