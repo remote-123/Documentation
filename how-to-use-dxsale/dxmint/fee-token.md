@@ -16,6 +16,34 @@ Developer fee is being collected by the developer team (in this case yourself) t
 
 **How to make Fee token?**
 
-Once you go into Fee token tab, you will be greeted with the form as shown below. Please follow the screenshot guideline and understand how the flow works and what the fees are about.
+Visit [dx.app](https://www.dx.app/) and click on 'Create', then select 'DxMint'.
 
-<figure><img src="../../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dxmint.png" alt=""><figcaption></figcaption></figure>
+
+Choose your network/chain carefully.
+
+<figure><img src="../../.gitbook/assets/standard token2.png" alt=""><figcaption></figcaption></figure>
+
+Select 'Fee Token' as the token type. After selecting you will see all the features of Fee Token.
+
+<figure><img src="../../.gitbook/assets/fee token.png" alt=""><figcaption></figcaption></figure>
+
+Enter the token information (Token Name, Token Symbol, Token Decimal, Token Total Supply).
+
+<figure><img src="../../.gitbook/assets/fee token 2.png" alt=""><figcaption></figcaption></figure>
+
+After that, you need to enter fee details (Reflection Buy Fee, Reflection Sell Fee, Liquidity Fee, Sell Liquidity Fee). Following that, you need to enter the dev fee and the address that will receive all the fees.
+
+<figure><img src="../../.gitbook/assets/fee token 3.png" alt=""><figcaption></figcaption></figure>
+
+After that, select your targeted DEX and click on 'MINT FEE TOKEN'.
+
+<figure><img src="../../.gitbook/assets/fee token 4.png" alt=""><figcaption></figcaption></figure>
+
+After clicking on 'MINT FEE TOKEN', please confirm the transaction. Once approved, your tokens will be minted and received in your wallet. Remember, there is a minting fee of 1% of the minted tokens.
+
+<figure><img src="../../.gitbook/assets/standarrd token 3.png" alt=""><figcaption></figcaption></figure>
+
+Below that, you will see all of your minted tokens with DxSale.
+
+<figure><img src="../../.gitbook/assets/minted token.png" alt=""><figcaption></figcaption></figure>
