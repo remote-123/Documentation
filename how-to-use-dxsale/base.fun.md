@@ -56,6 +56,10 @@ If you put everything correctly on the "Create a coin" section then its time cre
 
 
 
-Bang on! Your created token is ready to trade now.
+Bang on! Your minted token is ready to trade now. After minting the token, have fun! all you need to do is market the token and get it to **69420 Market Cap** for winning victory royale and launch to Uniswap.
+
+{% hint style="info" %}
+While you are getting your community to buy or sell your token, dev gets a 10% kickback from the fees (fees is 1%).
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/6base (1).png" alt=""><figcaption></figcaption></figure>
