@@ -6,25 +6,26 @@ description: >-
 
 # Audit
 
-Please click on one of the partners below and complete the form. Once completed a partner will reach out to you in some time:
+Please click on one of the partners below and complete the [form](https://forms.gle/k8zGhucLfYiNEErE8). A DxSale support member will reach out to you based on the form response.
 
-* [Certik](https://forms.gle/T2hxYaMLR54cmcB68)
-* [Cyberscope](https://forms.gle/dcaRuUWwvCxCtoCF9)
-* [AssureDefi](https://assuredefi.com/)
-* [Solidproof](https://forms.gle/yaqhTrCfKXMEixAp6)
-* [SolidityFinance](https://forms.gle/7tpk7sbpti7tttCA7)
-* [TechRate](https://forms.gle/rd2Qkv8BsCA1ZQWQ8)
-* [Soken](https://forms.gle/19hymJNiqtubSsYp8)
-* [QuillAudits](https://forms.gle/sSXLUDfDAuHwZ6GFA)
-* [RugFreeCoins](https://forms.gle/k1nUYof6nLaizB339)
-* [HashEx](https://forms.gle/PP3PWkELkpbZ9MRK6)
-* [Freshcoins](https://forms.gle/8UptCkwr31iLMLQR7)
-* [Coinsult](https://forms.gle/8VLq3ct1q6hwjCXY8)
-* [Analytix](https://forms.gle/ojGETuk8cEv6x77x5)
-* [AuditRateTech](https://forms.gle/5MXTuAHtZehJvzDM6)
-* [InterFi](https://forms.gle/KBdVc8athEpq7xc18)
-* [SafuAudit](https://forms.gle/EyK4CT4bdWW5Sr7H9)
-* [FusionTech](https://forms.gle/D7Jyt7WWd9t3Zuhh7)
-* [SecureWise](https://forms.gle/2Pp2ZpTJYEWzShVB9)
-* [VerifyFinance](https://verify.finance/)
-* [Expelee](https://t.me/Expelee)
+* Certik
+* Cyberscope
+* AssureDefi
+* Solidproof
+* SolidityFinance
+* TechRate
+* Soken
+* QuillAudits
+* RugFreeCoins
+* HashEx
+* Freshcoins
+* Coinsult
+* Analytix
+* AuditRateTech
+* InterFi
+* SafuAudit
+* FusionTech
+* SecureWise
+* VerifyFinance
+* Expelee
+* Hashlock
