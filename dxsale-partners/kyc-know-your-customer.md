@@ -19,4 +19,5 @@ Our list of partners:
 * Seek
 * Cryptegridy
 * VerifyFinance
+* FusionTech
 
