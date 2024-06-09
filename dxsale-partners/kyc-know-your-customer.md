@@ -6,7 +6,7 @@ description: >-
 
 # KYC (Know Your Customer)
 
-Please complete the [form](https://forms.gle/vr43ppiGCFZUBZM16). A DxSale support member will reach out to you based on the form response. Alternatively, you can join the [telegram group](https://t.me/+SxJNc9lOx19iNTRh) and talk to our support members there. \
+Please complete the [form](https://forms.gle/vr43ppiGCFZUBZM16). A DxSale support member will reach out to you. Alternatively, you can join the [telegram group](https://t.me/+SxJNc9lOx19iNTRh) and talk to our support members there. \
 \
 Our list of partners:
 
