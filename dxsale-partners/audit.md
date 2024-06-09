@@ -6,7 +6,9 @@ description: >-
 
 # Audit
 
-Please click on one of the partners below and complete the [form](https://forms.gle/k8zGhucLfYiNEErE8). A DxSale support member will reach out to you based on the form response.
+Please complete the [form](https://forms.gle/k8zGhucLfYiNEErE8). A DxSale support member will reach out to you. Alternatively, you can join the [telegram group](https://t.me/+SxJNc9lOx19iNTRh) and talk to our support members there. \
+\
+Our list of partners:
 
 * Certik
 * Cyberscope

@@ -6,7 +6,9 @@ description: >-
 
 # KYC (Know Your Customer)
 
-Choose one of the partners below and fill out the [form](https://forms.gle/vr43ppiGCFZUBZM16). A DxSale support member will reach out to you based on the form response.
+Please complete the [form](https://forms.gle/vr43ppiGCFZUBZM16). A DxSale support member will reach out to you based on the form response. Alternatively, you can join the [telegram group](https://t.me/+SxJNc9lOx19iNTRh) and talk to our support members there. \
+\
+Our list of partners:
 
 * Certik
 * AssureDeFi
