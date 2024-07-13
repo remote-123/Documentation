@@ -42,8 +42,6 @@ If you are a project seeking to launch on DxSale or require assistance in utiliz
 
 
 
-
-
 <mark style="color:orange;">**Scisor (Sahariar) - Community Moderator Manager, Spreading Team Manager, Exec Assistant & Business Dev**</mark>
 
 * [https://t.me/escortscisor](https://t.me/escortscisor)
@@ -51,14 +49,10 @@ If you are a project seeking to launch on DxSale or require assistance in utiliz
 
 
 
-
-
 <mark style="color:orange;">**Cylvestre - Business Dev, Community Moderator Lead and Onboarding Lead**</mark>
 
 * [https://t.me/cywild](https://t.me/cywild)
 * clyvestre@dxsale.network
-
-
 
 
 
@@ -79,17 +73,9 @@ If you are a project seeking to launch on DxSale or require assistance in utiliz
 
 
 
+<mark style="color:orange;">**Amir - Onboarding & Sales**</mark>
 
-
-<mark style="color:orange;">**Leksa - Business Dev & Spreading Lead**</mark>
-
-* [https://t.me/Leska\_Dx](https://t.me/Leska\_Dx)
-
-
-
-<mark style="color:orange;">**Lim - Sales**</mark>&#x20;
-
-* [https://t.me/limyth](https://t.me/limyth)
+* [https://t.me/Amikann](https://t.me/Amikann)
 
 
 
