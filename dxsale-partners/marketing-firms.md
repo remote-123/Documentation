@@ -10,6 +10,5 @@ Below are a list of some of the best marketing firms that you can contact to hel
 
 * [Crypto Miners](https://bio.link/CryptoMiners)
 * [Cryptic](https://crypticweb3.com) ([Alternate Contact](https://t.me/prismacryptic))
-* [Crypto Safu](https://t.me/CryptoSafuGems)
 * [Anonymous Marketing](https://www.anonymousgroup.net)&#x20;
 
