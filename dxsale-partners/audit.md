@@ -26,7 +26,6 @@ Our list of partners:
 * AuditRateTech
 * InterFi
 * SafuAudit
-* FusionTech
 * SecureWise
 * VerifyFinance
 * Expelee
