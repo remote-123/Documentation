@@ -22,30 +22,13 @@ If you are a project seeking to launch on DxSale or require assistance in utiliz
 
 
 
-
-
-<mark style="color:orange;">**Pip - Sales Manager, Exclusive Lounge & Twitter Space Host and Business Dev**</mark>
-
-* [https://t.me/aussiepip](https://t.me/aussiepip)
-* Pip@dxsale.network
-
-
-
-<mark style="color:orange;">**Micanne - Sales Lead and Business Dev**</mark>
-
-* [https://t.me/Micanne\_s](https://t.me/Micanne\_s)
-* [https://t.me/Micannes](https://t.me/Micannes)
-* [https://t.me/sonia663](https://t.me/sonia663)
-* micanne@dxsale.network
-
-
-
-
-
-<mark style="color:orange;">**Scisor (Sahariar) - Community Moderator Manager, Spreading Team Manager, Exec Assistant & Business Dev**</mark>
+<mark style="color:orange;">**Scisor (Sahariar) - Community Moderator Manager, Business Developer, Spreading Team Manager & Exec Assistant**</mark>
 
 * [https://t.me/escortscisor](https://t.me/escortscisor)
+* [https://x.com/EscortScisor](https://x.com/EscortScisor)
 * shahariar@dxsale.network
+
+
 
 
 
