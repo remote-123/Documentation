@@ -41,7 +41,7 @@ There are few ways to navigate to your locker for managing the lock to withdraw 
 
 <figure><img src="../../../.gitbook/assets/Token locker Manage.png" alt=""><figcaption><p>Token Locker</p></figcaption></figure>
 
-The page where you can manage your locker is from your actual lock page that you can share with your community. Simply scroll tothe bottom and select Manage your Locker. Only the wallet address associated with the locker can manage the locker.
+The page where you can manage your locker is from your actual lock page that you can share with your community. Simply scroll to the bottom and select Manage your Locker. Only the wallet address associated with the locker can manage the locker.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2025-03-23 at 4.25.15 PM.png" alt=""><figcaption><p>Manage Locker</p></figcaption></figure>
 

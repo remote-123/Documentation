@@ -33,7 +33,7 @@ There are few ways to navigate to your locker for managing the lock to withdraw 
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2025-03-24 at 12.51.32 PM.png" alt=""><figcaption><p>V2 Liquidity Locker</p></figcaption></figure>
 
-The page where you can manage your locker is from your actual lock page that you can share with your community. Simply scroll tothe bottom and select Manage your Locker. Only the wallet address associated with the locker can manage the locker.
+The page where you can manage your locker is from your actual lock page that you can share with your community. Simply scroll to the bottom and select Manage your Locker. Only the wallet address associated with the locker can manage the locker.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2025-03-24 at 12.56.06 PM.png" alt=""><figcaption><p>Manage Locker</p></figcaption></figure>
 
@@ -43,7 +43,7 @@ If you do not see the Manage button, please make sure you are on the right walle
 
 **Withdrawing tokens from locker**
 
-Once you are at the manage page , you will be greeted with these following options. Use the Withdraw button to withdraw the tokens that are already vested or are already unlocked.
+Once you are at the manage page , you will be greeted with these following options. Use the Withdraw button to withdraw the tokens that are already unlocked.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2025-03-24 at 1.25.20 PM.png" alt=""><figcaption><p>Manage Modal</p></figcaption></figure>
 
