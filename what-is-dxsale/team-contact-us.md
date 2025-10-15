@@ -20,50 +20,6 @@ If you are a project seeking to launch on DxSale or require assistance in utiliz
 
 ### DxSale Team
 
-
-
-<mark style="color:orange;">**Scisor (Sahariar) - Community Moderator Manager, Business Developer, Spreading Team Manager & Exec Assistant**</mark>
-
-* [https://t.me/escortscisor](https://t.me/escortscisor)
-* [https://x.com/EscortScisor](https://x.com/EscortScisor)
-* shahariar@dxsale.network
-
-
-
-
-
-<mark style="color:orange;">**Cylvestre - Business Dev, Community Moderator Lead and Onboarding Lead**</mark>
-
-* [https://t.me/cywild](https://t.me/cywild)
-* clyvestre@dxsale.network
-
-
-
-<mark style="color:orange;">**Joel - Exec Assistant, Business Dev, Community Moderator Lead, and Onboarding Lead**</mark>
-
-* [https://t.me/dxsjoe](https://t.me/dxsjoe)
-* joel@dxsale.network
-
-
-
-<mark style="color:orange;">**Lore - Community Moderator and Spanish Community Expert**</mark>
-
-* [https://t.me/Lorenilla8](https://t.me/Lorenilla8)
-
-<mark style="color:orange;">**Mel - Community Moderator**</mark>
-
-* [https://t.me/lingthai](https://t.me/lingthai)
-
-
-
-<mark style="color:orange;">**Amir - Onboarding & Sales**</mark>
-
-* [https://t.me/Amikann](https://t.me/Amikann)
-
-
-
-
-
 For partnership requests, we kindly ask that you contact our founders, namely Dennis, Hash, and Raphael. Please ensure all emails are copied to receive the quickest response. \
 \
 <mark style="color:green;">**Dennis -**</mark> [<mark style="color:green;">**dennis@dxsale.network**</mark>](mailto:dennis@dxsale.network) \ <mark style="color:green;">**Hash -**</mark> [<mark style="color:green;">**hash@dxsale.network**</mark>](mailto:hash@dxsale.network) \ <mark style="color:green;">**Raphael -**</mark> [<mark style="color:green;">**raphael@dxsale.network**</mark>](mailto:raphael@dxsale.network)
